@@ -2,9 +2,9 @@ name: Daily Engoo News
 
 on:
   schedule:
-    # Every day at 05:00 UTC ≈ 07:00 / 08:00 Israel time (winter/summer)
-    - cron: "0 5 * * *"
-  workflow_dispatch:  # allows manual run from GitHub UI
+    # Every day at 01:00 UTC = 03:00 Israel time in winter, 04:00 in summer
+    - cron: "0 1 * * *"
+  workflow_dispatch:  # manual run button
 
 permissions:
   contents: write
@@ -13,7 +13,7 @@ jobs:
   fetch-and-commit:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -24,17 +24,63 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Fetch 3 new articles per topic
-        run: python scripts/fetch_daily.py
+      - name: Fetch new articles
+        id: fetch
+        run: |
+          set -o pipefail
+          python scripts/fetch_daily.py 2>&1 | tee fetch_log.txt
+        continue-on-error: true   # still commit status even if some topics failed
 
-      - name: Commit and push if there are changes
+      - name: Show summary
+        run: |
+          echo "======= last_run.txt ======="
+          cat last_run.txt || true
+          echo ""
+          echo "======= status.json (short) ======="
+          python -c "
+          import json
+          try:
+            s = json.load(open('status.json'))
+            print('ok:', s.get('ok'))
+            print('total_added:', s.get('total_added'))
+            if s.get('fatal_error'):
+              print('FATAL:', s['fatal_error'])
+            for t, info in s.get('topics', {}).items():
+              errs = len(info.get('errors', []))
+              print(f'  {t}: +{info.get(\"added\",0)}  errors={errs}')
+          except Exception as e:
+            print('Could not read status.json:', e)
+          "
+
+      - name: Commit & push changes
         run: |
           git config user.name "engoo-daily-bot"
           git config user.email "engoo-daily-bot@users.noreply.github.com"
-          git add .
+
+          git add -A
+
           if git diff --staged --quiet; then
-            echo "No new articles today."
+            echo "No file changes to commit."
           else
-            git commit -m "Daily Engoo news: $(date -u +%Y-%m-%d)"
+            ADDED=$(python -c 'import json; print(json.load(open("status.json")).get("total_added",0))' 2>/dev/null || echo "?")
+            git commit -m "Daily Engoo news $(date -u +%Y-%m-%d) (added ${ADDED} articles)"
             git push
+            echo "Pushed successfully."
           fi
+
+      - name: Upload logs as artifact (always)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: engoo-daily-logs
+          path: |
+            last_run.txt
+            status.json
+            fetch_log.txt
+          retention-days: 14
+
+      - name: Fail the job if the fetch step failed
+        if: steps.fetch.outcome == 'failure'
+        run: |
+          echo "The fetch step reported failure. Check the logs and status.json above."
+          exit 1
