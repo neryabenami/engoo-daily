@@ -1,0 +1,38 @@
+============================================================
+Engoo Daily fetch started – 2026-11-16 08:37:38 UTC
+Target: 3 new articles × 5 topics  (levels 4-9)
+============================================================
+
+[Business_Politics] already have 6 articles
+  candidates found: 6
+  → L5  Many Americans 'Work Remotely' from the Office
+  → L6  Change Employers for Career Progress, Workers Say
+  → L8  China's Workers Now Support More Elderly than Children
+
+[Science_Technology] already have 6 articles
+  candidates found: 6
+  → L6  Sardinian Restaurants Ask Families to Put Phones Away
+  → L7  Most People Expect AI to Reduce Jobs for Humans
+  → L7  New Robot Butler Can Help You Find Your Keys
+
+[Health_Lifestyle] already have 6 articles
+  candidates found: 6
+  → L6  '6-to-1' Shopping Method Could Help You Save Money
+  → L8  Healthier Salt Could Save Millions of Lives
+  → L6  Sleeping in on Weekends May Be Bad for Your Heart
+
+[Culture_Society] already have 6 articles
+  candidates found: 6
+  → L8  DNA Study Tracks English Language's Ancient Origins
+  → L7  Want to Sound More Confident? Raise Your Eyebrows!
+  → L5  Italian Chef Fired for Refusing to Make Pineapple Pizza
+
+[Travel_Experiences] already have 6 articles
+  candidates found: 6
+  → L6  Special Suits Could Make Japan's Castles More Accessible
+  → L7  teamLab to Open Digital Art Museum in US
+  → L6  UK Airline Offers to Pay for Babies' First Passports
+
+============================================================
+Finished. Added 15 articles. Success=True
+============================================================
