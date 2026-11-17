@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-16 08:37:38 UTC
+Engoo Daily fetch started – 2026-11-17 08:38:20 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 6 articles
+[Business_Politics] already have 9 articles
   candidates found: 6
-  → L5  Many Americans 'Work Remotely' from the Office
-  → L6  Change Employers for Career Progress, Workers Say
-  → L8  China's Workers Now Support More Elderly than Children
+  → L6  43% of Workers Would Take a Pay Cut to Go Freelance
+  → L7  Japan's Household Spending Fell 6.8% in September
+  → L7  Japan's Anime Market Hits Record $28.2 Billion
 
-[Science_Technology] already have 6 articles
+[Science_Technology] already have 9 articles
   candidates found: 6
-  → L6  Sardinian Restaurants Ask Families to Put Phones Away
-  → L7  Most People Expect AI to Reduce Jobs for Humans
-  → L7  New Robot Butler Can Help You Find Your Keys
+  → L8  SpaceX Catches Starship Returning from Orbit for First Time
+  → L8  Coral Reefs Face Collapse in Next 50 Years, Say Experts
+  → L8  Japan Struggles to Respond to Cascade of Data Leaks
 
-[Health_Lifestyle] already have 6 articles
+[Health_Lifestyle] already have 9 articles
   candidates found: 6
-  → L6  '6-to-1' Shopping Method Could Help You Save Money
-  → L8  Healthier Salt Could Save Millions of Lives
-  → L6  Sleeping in on Weekends May Be Bad for Your Heart
+  → L7  Petting Your Dog May Protect You from Future Stress
+  → L8  Study Finds How a High-Calorie Diet May Affect the Brain
+  → L6  Accent Change May Be Sign of a Good Ear — Study
 
-[Culture_Society] already have 6 articles
+[Culture_Society] already have 9 articles
   candidates found: 6
-  → L8  DNA Study Tracks English Language's Ancient Origins
-  → L7  Want to Sound More Confident? Raise Your Eyebrows!
-  → L5  Italian Chef Fired for Refusing to Make Pineapple Pizza
+  → L4  S. Koreans in Their 60s and 70s Don't Feel Old — Survey
+  → L9  _Godzilla Minus Zero_ Breaks Box Office Record
+  → L5  Fender Creates Special Pokemon Guitars
 
-[Travel_Experiences] already have 6 articles
+[Travel_Experiences] already have 9 articles
   candidates found: 6
-  → L6  Special Suits Could Make Japan's Castles More Accessible
-  → L7  teamLab to Open Digital Art Museum in US
-  → L6  UK Airline Offers to Pay for Babies' First Passports
+  → L6  Singapore Airlines Plans 'Largest Double Bed in the Sky'
+  → L7  British Adventurer Finishes 28-Year Walk Around the World
+  → L7  Japan Changes Tax-Free Shopping Rules for Tourists
 
 ============================================================
 Finished. Added 15 articles. Success=True

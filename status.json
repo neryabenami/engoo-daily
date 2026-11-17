@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-16 08:37:38 UTC",
+  "started": "2026-11-17 08:38:20 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 6,
+      "existing": 9,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Many Americans 'Work Remotely' from the Office",
-          "level": 5,
-          "file": "Many_Americans_'Work_Remotely'_from_the_Office_level5.txt"
-        },
-        {
-          "title": "Change Employers for Career Progress, Workers Say",
+          "title": "43% of Workers Would Take a Pay Cut to Go Freelance",
           "level": 6,
-          "file": "Change_Employers_for_Career_Progress,_Workers_Say_level6.txt"
+          "file": "43%_of_Workers_Would_Take_a_Pay_Cut_to_Go_Freelance_level6.txt"
         },
         {
-          "title": "China's Workers Now Support More Elderly than Children",
-          "level": 8,
-          "file": "China's_Workers_Now_Support_More_Elderly_than_Children_level8.txt"
+          "title": "Japan's Household Spending Fell 6.8% in September",
+          "level": 7,
+          "file": "Japan's_Household_Spending_Fell_6.8%_in_September_level7.txt"
+        },
+        {
+          "title": "Japan's Anime Market Hits Record $28.2 Billion",
+          "level": 7,
+          "file": "Japan's_Anime_Market_Hits_Record_$28.2_Billion_level7.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 6,
+      "existing": 9,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Sardinian Restaurants Ask Families to Put Phones Away",
-          "level": 6,
-          "file": "Sardinian_Restaurants_Ask_Families_to_Put_Phones_Away_level6.txt"
+          "title": "SpaceX Catches Starship Returning from Orbit for First Time",
+          "level": 8,
+          "file": "SpaceX_Catches_Starship_Returning_from_Orbit_for_First_Time_level8.txt"
         },
         {
-          "title": "Most People Expect AI to Reduce Jobs for Humans",
-          "level": 7,
-          "file": "Most_People_Expect_AI_to_Reduce_Jobs_for_Humans_level7.txt"
+          "title": "Coral Reefs Face Collapse in Next 50 Years, Say Experts",
+          "level": 8,
+          "file": "Coral_Reefs_Face_Collapse_in_Next_50_Years,_Say_Experts_level8.txt"
         },
         {
-          "title": "New Robot Butler Can Help You Find Your Keys",
-          "level": 7,
-          "file": "New_Robot_Butler_Can_Help_You_Find_Your_Keys_level7.txt"
+          "title": "Japan Struggles to Respond to Cascade of Data Leaks",
+          "level": 8,
+          "file": "Japan_Struggles_to_Respond_to_Cascade_of_Data_Leaks_level8.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 6,
+      "existing": 9,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "'6-to-1' Shopping Method Could Help You Save Money",
-          "level": 6,
-          "file": "'6-to-1'_Shopping_Method_Could_Help_You_Save_Money_level6.txt"
+          "title": "Petting Your Dog May Protect You from Future Stress",
+          "level": 7,
+          "file": "Petting_Your_Dog_May_Protect_You_from_Future_Stress_level7.txt"
         },
         {
-          "title": "Healthier Salt Could Save Millions of Lives",
+          "title": "Study Finds How a High-Calorie Diet May Affect the Brain",
           "level": 8,
-          "file": "Healthier_Salt_Could_Save_Millions_of_Lives_level8.txt"
+          "file": "Study_Finds_How_a_High-Calorie_Diet_May_Affect_the_Brain_level8.txt"
         },
         {
-          "title": "Sleeping in on Weekends May Be Bad for Your Heart",
+          "title": "Accent Change May Be Sign of a Good Ear — Study",
           "level": 6,
-          "file": "Sleeping_in_on_Weekends_May_Be_Bad_for_Your_Heart_level6.txt"
+          "file": "Accent_Change_May_Be_Sign_of_a_Good_Ear_—_Study_level6.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 6,
+      "existing": 9,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "DNA Study Tracks English Language's Ancient Origins",
-          "level": 8,
-          "file": "DNA_Study_Tracks_English_Language's_Ancient_Origins_level8.txt"
+          "title": "S. Koreans in Their 60s and 70s Don't Feel Old — Survey",
+          "level": 4,
+          "file": "S._Koreans_in_Their_60s_and_70s_Don't_Feel_Old_—_Survey_level4.txt"
         },
         {
-          "title": "Want to Sound More Confident? Raise Your Eyebrows!",
-          "level": 7,
-          "file": "Want_to_Sound_More_Confident_Raise_Your_Eyebrows!_level7.txt"
+          "title": "_Godzilla Minus Zero_ Breaks Box Office Record",
+          "level": 9,
+          "file": "_Godzilla_Minus_Zero__Breaks_Box_Office_Record_level9.txt"
         },
         {
-          "title": "Italian Chef Fired for Refusing to Make Pineapple Pizza",
+          "title": "Fender Creates Special Pokemon Guitars",
           "level": 5,
-          "file": "Italian_Chef_Fired_for_Refusing_to_Make_Pineapple_Pizza_level5.txt"
+          "file": "Fender_Creates_Special_Pokemon_Guitars_level5.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 6,
+      "existing": 9,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Special Suits Could Make Japan's Castles More Accessible",
+          "title": "Singapore Airlines Plans 'Largest Double Bed in the Sky'",
           "level": 6,
-          "file": "Special_Suits_Could_Make_Japan's_Castles_More_Accessible_level6.txt"
+          "file": "Singapore_Airlines_Plans_'Largest_Double_Bed_in_the_Sky'_level6.txt"
         },
         {
-          "title": "teamLab to Open Digital Art Museum in US",
+          "title": "British Adventurer Finishes 28-Year Walk Around the World",
           "level": 7,
-          "file": "teamLab_to_Open_Digital_Art_Museum_in_US_level7.txt"
+          "file": "British_Adventurer_Finishes_28-Year_Walk_Around_the_World_level7.txt"
         },
         {
-          "title": "UK Airline Offers to Pay for Babies' First Passports",
-          "level": 6,
-          "file": "UK_Airline_Offers_to_Pay_for_Babies'_First_Passports_level6.txt"
+          "title": "Japan Changes Tax-Free Shopping Rules for Tourists",
+          "level": 7,
+          "file": "Japan_Changes_Tax-Free_Shopping_Rules_for_Tourists_level7.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-16 08:37:49 UTC"
+  "finished": "2026-11-17 08:38:31 UTC"
 }
