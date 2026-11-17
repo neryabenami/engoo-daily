@@ -2,8 +2,8 @@ name: Daily Engoo News
 
 on:
   schedule:
-    # Every day at 01:00 UTC = 03:00 Israel time in winter, 04:00 in summer
-    - cron: "0 1 * * *"
+    # Started on time by cron-job.org at 03:00 Israel time; this is only a fallback (GitHub schedules can be hours late)
+    - cron: "30 3 * * *"
   workflow_dispatch:  # manual run button
 
 permissions:
