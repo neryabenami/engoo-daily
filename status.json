@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-17 08:38:20 UTC",
+  "started": "2026-11-17 20:21:35 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 9,
+      "existing": 12,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "43% of Workers Would Take a Pay Cut to Go Freelance",
+          "title": "Being an Entrepreneur Linked to Longer Lifespan",
+          "level": 7,
+          "file": "Being_an_Entrepreneur_Linked_to_Longer_Lifespan_level7.txt"
+        },
+        {
+          "title": "Should You Bring an Iced Coffee to an Interview?",
           "level": 6,
-          "file": "43%_of_Workers_Would_Take_a_Pay_Cut_to_Go_Freelance_level6.txt"
+          "file": "Should_You_Bring_an_Iced_Coffee_to_an_Interview_level6.txt"
         },
         {
-          "title": "Japan's Household Spending Fell 6.8% in September",
-          "level": 7,
-          "file": "Japan's_Household_Spending_Fell_6.8%_in_September_level7.txt"
-        },
-        {
-          "title": "Japan's Anime Market Hits Record $28.2 Billion",
-          "level": 7,
-          "file": "Japan's_Anime_Market_Hits_Record_$28.2_Billion_level7.txt"
+          "title": "Democrats Win US House and Senate",
+          "level": 8,
+          "file": "Democrats_Win_US_House_and_Senate_level8.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 9,
+      "existing": 12,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "SpaceX Catches Starship Returning from Orbit for First Time",
-          "level": 8,
-          "file": "SpaceX_Catches_Starship_Returning_from_Orbit_for_First_Time_level8.txt"
+          "title": "More than Half of People in Japan Use AI",
+          "level": 5,
+          "file": "More_than_Half_of_People_in_Japan_Use_AI_level5.txt"
         },
         {
-          "title": "Coral Reefs Face Collapse in Next 50 Years, Say Experts",
+          "title": "Apple Unveils Its First Touchscreen Laptop",
           "level": 8,
-          "file": "Coral_Reefs_Face_Collapse_in_Next_50_Years,_Say_Experts_level8.txt"
+          "file": "Apple_Unveils_Its_First_Touchscreen_Laptop_level8.txt"
         },
         {
-          "title": "Japan Struggles to Respond to Cascade of Data Leaks",
+          "title": "New French Literary Prize Rewards Books Written with AI",
           "level": 8,
-          "file": "Japan_Struggles_to_Respond_to_Cascade_of_Data_Leaks_level8.txt"
+          "file": "New_French_Literary_Prize_Rewards_Books_Written_with_AI_level8.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 9,
+      "existing": 12,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Petting Your Dog May Protect You from Future Stress",
+          "title": "Why You Should Go for a 'Color Walk' ",
+          "level": 4,
+          "file": "Why_You_Should_Go_for_a_'Color_Walk'_level4.txt"
+        },
+        {
+          "title": "Young Adults Find It Difficult to Make Friends — Survey",
+          "level": 5,
+          "file": "Young_Adults_Find_It_Difficult_to_Make_Friends_—_Survey_level5.txt"
+        },
+        {
+          "title": "Tea May Benefit Heart Health — If It's Not Too Hot",
           "level": 7,
-          "file": "Petting_Your_Dog_May_Protect_You_from_Future_Stress_level7.txt"
-        },
-        {
-          "title": "Study Finds How a High-Calorie Diet May Affect the Brain",
-          "level": 8,
-          "file": "Study_Finds_How_a_High-Calorie_Diet_May_Affect_the_Brain_level8.txt"
-        },
-        {
-          "title": "Accent Change May Be Sign of a Good Ear — Study",
-          "level": 6,
-          "file": "Accent_Change_May_Be_Sign_of_a_Good_Ear_—_Study_level6.txt"
+          "file": "Tea_May_Benefit_Heart_Health_—_If_It's_Not_Too_Hot_level7.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 9,
+      "existing": 12,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "S. Koreans in Their 60s and 70s Don't Feel Old — Survey",
-          "level": 4,
-          "file": "S._Koreans_in_Their_60s_and_70s_Don't_Feel_Old_—_Survey_level4.txt"
+          "title": "Robert Pattinson Named as Next James Bond",
+          "level": 8,
+          "file": "Robert_Pattinson_Named_as_Next_James_Bond_level8.txt"
         },
         {
-          "title": "_Godzilla Minus Zero_ Breaks Box Office Record",
-          "level": 9,
-          "file": "_Godzilla_Minus_Zero__Breaks_Box_Office_Record_level9.txt"
+          "title": "_Kimjang:_ A Korean Winter Tradition",
+          "level": 6,
+          "file": "_Kimjang__A_Korean_Winter_Tradition_level6.txt"
         },
         {
-          "title": "Fender Creates Special Pokemon Guitars",
-          "level": 5,
-          "file": "Fender_Creates_Special_Pokemon_Guitars_level5.txt"
+          "title": "4 in 10 UK Teens Want More Work Experience at School",
+          "level": 6,
+          "file": "4_in_10_UK_Teens_Want_More_Work_Experience_at_School_level6.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 9,
+      "existing": 12,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Singapore Airlines Plans 'Largest Double Bed in the Sky'",
+          "title": "New Tour Takes Visitors Inside Japan's Northern Alps",
+          "level": 7,
+          "file": "New_Tour_Takes_Visitors_Inside_Japan's_Northern_Alps_level7.txt"
+        },
+        {
+          "title": "Getting a Ticket for Machu Picchu Is Now a Little Easier",
+          "level": 7,
+          "file": "Getting_a_Ticket_for_Machu_Picchu_Is_Now_a_Little_Easier_level7.txt"
+        },
+        {
+          "title": "One in Four European Pilots Fly When Tired",
           "level": 6,
-          "file": "Singapore_Airlines_Plans_'Largest_Double_Bed_in_the_Sky'_level6.txt"
-        },
-        {
-          "title": "British Adventurer Finishes 28-Year Walk Around the World",
-          "level": 7,
-          "file": "British_Adventurer_Finishes_28-Year_Walk_Around_the_World_level7.txt"
-        },
-        {
-          "title": "Japan Changes Tax-Free Shopping Rules for Tourists",
-          "level": 7,
-          "file": "Japan_Changes_Tax-Free_Shopping_Rules_for_Tourists_level7.txt"
+          "file": "One_in_Four_European_Pilots_Fly_When_Tired_level6.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-17 08:38:31 UTC"
+  "finished": "2026-11-17 20:21:46 UTC"
 }

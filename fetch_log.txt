@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-17 08:38:20 UTC
+Engoo Daily fetch started – 2026-11-17 20:21:35 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 9 articles
+[Business_Politics] already have 12 articles
   candidates found: 6
-  → L6  43% of Workers Would Take a Pay Cut to Go Freelance
-  → L7  Japan's Household Spending Fell 6.8% in September
-  → L7  Japan's Anime Market Hits Record $28.2 Billion
+  → L7  Being an Entrepreneur Linked to Longer Lifespan
+  → L6  Should You Bring an Iced Coffee to an Interview?
+  → L8  Democrats Win US House and Senate
 
-[Science_Technology] already have 9 articles
+[Science_Technology] already have 12 articles
   candidates found: 6
-  → L8  SpaceX Catches Starship Returning from Orbit for First Time
-  → L8  Coral Reefs Face Collapse in Next 50 Years, Say Experts
-  → L8  Japan Struggles to Respond to Cascade of Data Leaks
+  → L5  More than Half of People in Japan Use AI
+  → L8  Apple Unveils Its First Touchscreen Laptop
+  → L8  New French Literary Prize Rewards Books Written with AI
 
-[Health_Lifestyle] already have 9 articles
+[Health_Lifestyle] already have 12 articles
   candidates found: 6
-  → L7  Petting Your Dog May Protect You from Future Stress
-  → L8  Study Finds How a High-Calorie Diet May Affect the Brain
-  → L6  Accent Change May Be Sign of a Good Ear — Study
+  → L4  Why You Should Go for a 'Color Walk' 
+  → L5  Young Adults Find It Difficult to Make Friends — Survey
+  → L7  Tea May Benefit Heart Health — If It's Not Too Hot
 
-[Culture_Society] already have 9 articles
+[Culture_Society] already have 12 articles
   candidates found: 6
-  → L4  S. Koreans in Their 60s and 70s Don't Feel Old — Survey
-  → L9  _Godzilla Minus Zero_ Breaks Box Office Record
-  → L5  Fender Creates Special Pokemon Guitars
+  → L8  Robert Pattinson Named as Next James Bond
+  → L6  _Kimjang:_ A Korean Winter Tradition
+  → L6  4 in 10 UK Teens Want More Work Experience at School
 
-[Travel_Experiences] already have 9 articles
+[Travel_Experiences] already have 12 articles
   candidates found: 6
-  → L6  Singapore Airlines Plans 'Largest Double Bed in the Sky'
-  → L7  British Adventurer Finishes 28-Year Walk Around the World
-  → L7  Japan Changes Tax-Free Shopping Rules for Tourists
+  → L7  New Tour Takes Visitors Inside Japan's Northern Alps
+  → L7  Getting a Ticket for Machu Picchu Is Now a Little Easier
+  → L6  One in Four European Pilots Fly When Tired
 
 ============================================================
 Finished. Added 15 articles. Success=True
