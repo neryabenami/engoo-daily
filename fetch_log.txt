@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-18 01:00:44 UTC
+Engoo Daily fetch started – 2026-11-18 12:02:35 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 15 articles
+[Business_Politics] already have 18 articles
   candidates found: 6
-  → L9  Japan Launches New Agency to Deal with Disasters
-  → L6  31% of Japan's Graduates Quit Jobs Within 3 Years
-  → L6  Preparing for Employment Costs S. Koreans $440 a Month
+  → L5  Tokyo Restaurant Adds Space for Content Creators
+  → L8  Chinese Carmakers Overtake Japanese Rivals in Europe
+  → L6  Japan's Budget Restaurant Saizeriya Raises Prices
 
-[Science_Technology] already have 15 articles
+[Science_Technology] already have 18 articles
   candidates found: 6
-  → L7  Norway May Restrict Online Games for Under-16s
-  → L7  The Science of Fear: Why We Love to Be Scared
-  → L6  How Many TVs Do Americans Have at Home?
+  → L8  AI Recommends Pricier Options to Wealthier Users
+  → L6  Can Online Connections Match Offline Friendship?
+  → L8  'Fast Tech': Cheap Gadgets Cause Costly E-Waste
 
-[Health_Lifestyle] already have 15 articles
+[Health_Lifestyle] already have 18 articles
   candidates found: 6
-  → L6  Sauce on the Side Makes a Meal Look Healthier — Study
-  → L6  Brits Now Track Four Health Habits a Day
-  → L6  Many Young Adults Don't Have DIY Skills — Survey
+  → L7  Americans May Eat More Processed Food than They Think
+  → L4  Young Japanese Have Worse Diets than Older Japanese 
+  → L7  Weak Spine Linked with Greater Cognitive Decline
 
-[Culture_Society] already have 15 articles
+[Culture_Society] already have 18 articles
   candidates found: 6
-  → L7  New 'Blue Zone' of Long-Lived People Found in Sardinia
-  → L5  70% of Japanese Kids Read Less than an Hour a Week
-  → L5  80% of Netflix Users Have Watched Korean Content
+  → L6  These US Cities Spend the Most on Groceries
+  → L5  1 in 10 Malaysian Men Borrow Money to Pay for Dates
+  → L7  'Maxxing' Named Dictionary.com's Word of the Year
 
-[Travel_Experiences] already have 15 articles
+[Travel_Experiences] already have 18 articles
   candidates found: 6
-  → L6  Airbnb Hosts Can No Longer Ask Guests to Clean 
-  → L6  'Quiet Questing' — Americans Want Switched Off Travel
-  → L7  Foreigners Report Thousands of Seoul Taxi Overcharges
+  → L7  Travelers Are Taking Trips Just to Buy Souvenirs
+  → L5  Portuguese Most Likely to Post Travel Selfies — Survey
+  → L6  Japan Is Getting Its First Disney Cruise Ship
 
 ============================================================
 Finished. Added 15 articles. Success=True

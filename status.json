@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-18 01:00:44 UTC",
+  "started": "2026-11-18 12:02:35 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 15,
+      "existing": 18,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Japan Launches New Agency to Deal with Disasters",
-          "level": 9,
-          "file": "Japan_Launches_New_Agency_to_Deal_with_Disasters_level9.txt"
+          "title": "Tokyo Restaurant Adds Space for Content Creators",
+          "level": 5,
+          "file": "Tokyo_Restaurant_Adds_Space_for_Content_Creators_level5.txt"
         },
         {
-          "title": "31% of Japan's Graduates Quit Jobs Within 3 Years",
-          "level": 6,
-          "file": "31%_of_Japan's_Graduates_Quit_Jobs_Within_3_Years_level6.txt"
+          "title": "Chinese Carmakers Overtake Japanese Rivals in Europe",
+          "level": 8,
+          "file": "Chinese_Carmakers_Overtake_Japanese_Rivals_in_Europe_level8.txt"
         },
         {
-          "title": "Preparing for Employment Costs S. Koreans $440 a Month",
+          "title": "Japan's Budget Restaurant Saizeriya Raises Prices",
           "level": 6,
-          "file": "Preparing_for_Employment_Costs_S._Koreans_$440_a_Month_level6.txt"
+          "file": "Japan's_Budget_Restaurant_Saizeriya_Raises_Prices_level6.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 15,
+      "existing": 18,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Norway May Restrict Online Games for Under-16s",
-          "level": 7,
-          "file": "Norway_May_Restrict_Online_Games_for_Under-16s_level7.txt"
+          "title": "AI Recommends Pricier Options to Wealthier Users",
+          "level": 8,
+          "file": "AI_Recommends_Pricier_Options_to_Wealthier_Users_level8.txt"
         },
         {
-          "title": "The Science of Fear: Why We Love to Be Scared",
-          "level": 7,
-          "file": "The_Science_of_Fear_Why_We_Love_to_Be_Scared_level7.txt"
-        },
-        {
-          "title": "How Many TVs Do Americans Have at Home?",
+          "title": "Can Online Connections Match Offline Friendship?",
           "level": 6,
-          "file": "How_Many_TVs_Do_Americans_Have_at_Home_level6.txt"
+          "file": "Can_Online_Connections_Match_Offline_Friendship_level6.txt"
+        },
+        {
+          "title": "'Fast Tech': Cheap Gadgets Cause Costly E-Waste",
+          "level": 8,
+          "file": "'Fast_Tech'_Cheap_Gadgets_Cause_Costly_E-Waste_level8.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 15,
+      "existing": 18,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Sauce on the Side Makes a Meal Look Healthier — Study",
-          "level": 6,
-          "file": "Sauce_on_the_Side_Makes_a_Meal_Look_Healthier_—_Study_level6.txt"
+          "title": "Americans May Eat More Processed Food than They Think",
+          "level": 7,
+          "file": "Americans_May_Eat_More_Processed_Food_than_They_Think_level7.txt"
         },
         {
-          "title": "Brits Now Track Four Health Habits a Day",
-          "level": 6,
-          "file": "Brits_Now_Track_Four_Health_Habits_a_Day_level6.txt"
+          "title": "Young Japanese Have Worse Diets than Older Japanese ",
+          "level": 4,
+          "file": "Young_Japanese_Have_Worse_Diets_than_Older_Japanese_level4.txt"
         },
         {
-          "title": "Many Young Adults Don't Have DIY Skills — Survey",
-          "level": 6,
-          "file": "Many_Young_Adults_Don't_Have_DIY_Skills_—_Survey_level6.txt"
+          "title": "Weak Spine Linked with Greater Cognitive Decline",
+          "level": 7,
+          "file": "Weak_Spine_Linked_with_Greater_Cognitive_Decline_level7.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 15,
+      "existing": 18,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "New 'Blue Zone' of Long-Lived People Found in Sardinia",
+          "title": "These US Cities Spend the Most on Groceries",
+          "level": 6,
+          "file": "These_US_Cities_Spend_the_Most_on_Groceries_level6.txt"
+        },
+        {
+          "title": "1 in 10 Malaysian Men Borrow Money to Pay for Dates",
+          "level": 5,
+          "file": "1_in_10_Malaysian_Men_Borrow_Money_to_Pay_for_Dates_level5.txt"
+        },
+        {
+          "title": "'Maxxing' Named Dictionary.com's Word of the Year",
           "level": 7,
-          "file": "New_'Blue_Zone'_of_Long-Lived_People_Found_in_Sardinia_level7.txt"
-        },
-        {
-          "title": "70% of Japanese Kids Read Less than an Hour a Week",
-          "level": 5,
-          "file": "70%_of_Japanese_Kids_Read_Less_than_an_Hour_a_Week_level5.txt"
-        },
-        {
-          "title": "80% of Netflix Users Have Watched Korean Content",
-          "level": 5,
-          "file": "80%_of_Netflix_Users_Have_Watched_Korean_Content_level5.txt"
+          "file": "'Maxxing'_Named_Dictionary.com's_Word_of_the_Year_level7.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 15,
+      "existing": 18,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Airbnb Hosts Can No Longer Ask Guests to Clean ",
-          "level": 6,
-          "file": "Airbnb_Hosts_Can_No_Longer_Ask_Guests_to_Clean_level6.txt"
-        },
-        {
-          "title": "'Quiet Questing' — Americans Want Switched Off Travel",
-          "level": 6,
-          "file": "'Quiet_Questing'_—_Americans_Want_Switched_Off_Travel_level6.txt"
-        },
-        {
-          "title": "Foreigners Report Thousands of Seoul Taxi Overcharges",
+          "title": "Travelers Are Taking Trips Just to Buy Souvenirs",
           "level": 7,
-          "file": "Foreigners_Report_Thousands_of_Seoul_Taxi_Overcharges_level7.txt"
+          "file": "Travelers_Are_Taking_Trips_Just_to_Buy_Souvenirs_level7.txt"
+        },
+        {
+          "title": "Portuguese Most Likely to Post Travel Selfies — Survey",
+          "level": 5,
+          "file": "Portuguese_Most_Likely_to_Post_Travel_Selfies_—_Survey_level5.txt"
+        },
+        {
+          "title": "Japan Is Getting Its First Disney Cruise Ship",
+          "level": 6,
+          "file": "Japan_Is_Getting_Its_First_Disney_Cruise_Ship_level6.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-18 01:00:55 UTC"
+  "finished": "2026-11-18 12:02:46 UTC"
 }

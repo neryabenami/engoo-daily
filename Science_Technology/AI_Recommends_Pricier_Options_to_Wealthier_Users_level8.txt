@@ -1,0 +1,34 @@
+Title: AI Recommends Pricier Options to Wealthier Users
+Level: 8
+Date: 2026-10-24
+Fetched: 2026-11-18 12:02:38 UTC
+
+============================================================
+VOCABULARY
+----------------------------------------
+( 6 vocabulary items in the original lesson )
+
+
+ARTICLE
+----------------------------------------
+Do you use AI to help you shop? Many people do. A recent survey by business technology company CI&T found that three-quarters of Americans have used AI while shopping — often to compare brands or find lower prices.
+
+But new research suggests that the recommendations you get may depend on what AI knows about you — and that, in many cases, AI will use that knowledge against you.
+
+Researchers from Carnegie Mellon University and Cisco Foundation AI created fictional users with different financial and demographic backgrounds. They then shared these users' profiles — and their fictional email inboxes — with AI agents running on a total of 13 different AI models from OpenAI, Anthropic, Google and Alibaba.
+
+Those fictional users then used the AI agents to make 325,000 inquiries about flights, health insurance and graduate school programs.
+
+It was found that eight of the 13 models consistently recommended costlier options to wealthier users.
+
+For example, Anthropic's Claude Opus 4.8 recommended flights to wealthier users costing an average of {{prn:$198|one hundred and ninety eight dollars}} more. The gap was {{prn:$177|one hundred and seventy seven dollars}} for Google's Gemini 2.5 Flash, and {{prn:$107|one hundred and seven dollars}} for OpenAI's GPT-5.
+
+Surprisingly, the difference persisted even when users specifically asked for the cheapest option. Gemini 2.5 Flash still recommended flights costing wealthier users an average of {{prn:$208|two hundred and eight dollars}} more, while GPT-5's gap was {{prn:$21|twenty one dollars}}.
+
+The researchers suggest that words like "cheap" may be interpreted based on what the AI thinks a user can afford, rather than the lowest price. When the agents were given a specific budget, such as flights "under {{prn:$200|two hundred dollars}}," the disparity nearly disappeared.
+
+It was also found that, even without being given access to users' financial profiles, the AI could infer their wealth just through access to their email inboxes.
+
+The researchers call this problem "adversarial delegation" — because giving AI access to personal data makes it more useful in doing tasks for you, but also enables it to act against your interests.
+
+They say the findings show that protecting users requires restricting not just what data AI can access, but how it is allowed to use it.
