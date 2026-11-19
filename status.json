@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-18 12:02:35 UTC",
+  "started": "2026-11-19 01:00:33 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 18,
+      "existing": 21,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Tokyo Restaurant Adds Space for Content Creators",
-          "level": 5,
-          "file": "Tokyo_Restaurant_Adds_Space_for_Content_Creators_level5.txt"
-        },
-        {
-          "title": "Chinese Carmakers Overtake Japanese Rivals in Europe",
-          "level": 8,
-          "file": "Chinese_Carmakers_Overtake_Japanese_Rivals_in_Europe_level8.txt"
-        },
-        {
-          "title": "Japan's Budget Restaurant Saizeriya Raises Prices",
+          "title": "27% of US Workers Using Savings to Cover Expenses",
           "level": 6,
-          "file": "Japan's_Budget_Restaurant_Saizeriya_Raises_Prices_level6.txt"
+          "file": "27%_of_US_Workers_Using_Savings_to_Cover_Expenses_level6.txt"
+        },
+        {
+          "title": "Serbia's Vucic Concedes Defeat to Student-Led Movement",
+          "level": 9,
+          "file": "Serbia's_Vucic_Concedes_Defeat_to_Student-Led_Movement_level9.txt"
+        },
+        {
+          "title": "Women Worry More About Mistakes on Male Teams",
+          "level": 7,
+          "file": "Women_Worry_More_About_Mistakes_on_Male_Teams_level7.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 18,
+      "existing": 21,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "AI Recommends Pricier Options to Wealthier Users",
+          "title": "People Would Pay 'Male' AI Agents More, Study Finds ",
           "level": 8,
-          "file": "AI_Recommends_Pricier_Options_to_Wealthier_Users_level8.txt"
+          "file": "People_Would_Pay_'Male'_AI_Agents_More,_Study_Finds_level8.txt"
         },
         {
-          "title": "Can Online Connections Match Offline Friendship?",
-          "level": 6,
-          "file": "Can_Online_Connections_Match_Offline_Friendship_level6.txt"
+          "title": "Americans Want Cars That Work Like Smartphones",
+          "level": 7,
+          "file": "Americans_Want_Cars_That_Work_Like_Smartphones_level7.txt"
         },
         {
-          "title": "'Fast Tech': Cheap Gadgets Cause Costly E-Waste",
-          "level": 8,
-          "file": "'Fast_Tech'_Cheap_Gadgets_Cause_Costly_E-Waste_level8.txt"
+          "title": "What Would You Trust AI to Do for You?",
+          "level": 5,
+          "file": "What_Would_You_Trust_AI_to_Do_for_You_level5.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 18,
+      "existing": 21,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Americans May Eat More Processed Food than They Think",
-          "level": 7,
-          "file": "Americans_May_Eat_More_Processed_Food_than_They_Think_level7.txt"
+          "title": "Hawaii Leads US in Life Expectancy",
+          "level": 6,
+          "file": "Hawaii_Leads_US_in_Life_Expectancy_level6.txt"
         },
         {
-          "title": "Young Japanese Have Worse Diets than Older Japanese ",
-          "level": 4,
-          "file": "Young_Japanese_Have_Worse_Diets_than_Older_Japanese_level4.txt"
+          "title": "Listening to Your Favorite Music May Help Ease Pain",
+          "level": 7,
+          "file": "Listening_to_Your_Favorite_Music_May_Help_Ease_Pain_level7.txt"
         },
         {
-          "title": "Weak Spine Linked with Greater Cognitive Decline",
-          "level": 7,
-          "file": "Weak_Spine_Linked_with_Greater_Cognitive_Decline_level7.txt"
+          "title": "These Symptoms Send Japanese People to the Doctor",
+          "level": 5,
+          "file": "These_Symptoms_Send_Japanese_People_to_the_Doctor_level5.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 18,
+      "existing": 21,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "These US Cities Spend the Most on Groceries",
+          "title": "The Story of Mexico's _Dia de los Muertos_",
+          "level": 8,
+          "file": "The_Story_of_Mexico's__Dia_de_los_Muertos_level8.txt"
+        },
+        {
+          "title": "US Parents Say Having a Baby Is Too Expensive",
           "level": 6,
-          "file": "These_US_Cities_Spend_the_Most_on_Groceries_level6.txt"
+          "file": "US_Parents_Say_Having_a_Baby_Is_Too_Expensive_level6.txt"
         },
         {
-          "title": "1 in 10 Malaysian Men Borrow Money to Pay for Dates",
-          "level": 5,
-          "file": "1_in_10_Malaysian_Men_Borrow_Money_to_Pay_for_Dates_level5.txt"
-        },
-        {
-          "title": "'Maxxing' Named Dictionary.com's Word of the Year",
-          "level": 7,
-          "file": "'Maxxing'_Named_Dictionary.com's_Word_of_the_Year_level7.txt"
+          "title": "Patrick Stewart, Legendary _Star Trek_ Actor, Dies at 86",
+          "level": 9,
+          "file": "Patrick_Stewart,_Legendary__Star_Trek__Actor,_Dies_at_86_level9.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 18,
+      "existing": 21,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Travelers Are Taking Trips Just to Buy Souvenirs",
-          "level": 7,
-          "file": "Travelers_Are_Taking_Trips_Just_to_Buy_Souvenirs_level7.txt"
-        },
-        {
-          "title": "Portuguese Most Likely to Post Travel Selfies — Survey",
-          "level": 5,
-          "file": "Portuguese_Most_Likely_to_Post_Travel_Selfies_—_Survey_level5.txt"
-        },
-        {
-          "title": "Japan Is Getting Its First Disney Cruise Ship",
+          "title": "See Less, Enjoy More: The Biggest Travel Trends for 2027",
           "level": 6,
-          "file": "Japan_Is_Getting_Its_First_Disney_Cruise_Ship_level6.txt"
+          "file": "See_Less,_Enjoy_More_The_Biggest_Travel_Trends_for_2027_level6.txt"
+        },
+        {
+          "title": "Hokkaido Voted Most Attractive Prefecture for 18th Time",
+          "level": 5,
+          "file": "Hokkaido_Voted_Most_Attractive_Prefecture_for_18th_Time_level5.txt"
+        },
+        {
+          "title": "Japan's Longest Loop Trail Opens in Ibaraki",
+          "level": 4,
+          "file": "Japan's_Longest_Loop_Trail_Opens_in_Ibaraki_level4.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-18 12:02:46 UTC"
+  "finished": "2026-11-19 01:00:44 UTC"
 }

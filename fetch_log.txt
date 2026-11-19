@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-18 12:02:35 UTC
+Engoo Daily fetch started – 2026-11-19 01:00:33 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 18 articles
+[Business_Politics] already have 21 articles
   candidates found: 6
-  → L5  Tokyo Restaurant Adds Space for Content Creators
-  → L8  Chinese Carmakers Overtake Japanese Rivals in Europe
-  → L6  Japan's Budget Restaurant Saizeriya Raises Prices
+  → L6  27% of US Workers Using Savings to Cover Expenses
+  → L9  Serbia's Vucic Concedes Defeat to Student-Led Movement
+  → L7  Women Worry More About Mistakes on Male Teams
 
-[Science_Technology] already have 18 articles
+[Science_Technology] already have 21 articles
   candidates found: 6
-  → L8  AI Recommends Pricier Options to Wealthier Users
-  → L6  Can Online Connections Match Offline Friendship?
-  → L8  'Fast Tech': Cheap Gadgets Cause Costly E-Waste
+  → L8  People Would Pay 'Male' AI Agents More, Study Finds 
+  → L7  Americans Want Cars That Work Like Smartphones
+  → L5  What Would You Trust AI to Do for You?
 
-[Health_Lifestyle] already have 18 articles
+[Health_Lifestyle] already have 21 articles
   candidates found: 6
-  → L7  Americans May Eat More Processed Food than They Think
-  → L4  Young Japanese Have Worse Diets than Older Japanese 
-  → L7  Weak Spine Linked with Greater Cognitive Decline
+  → L6  Hawaii Leads US in Life Expectancy
+  → L7  Listening to Your Favorite Music May Help Ease Pain
+  → L5  These Symptoms Send Japanese People to the Doctor
 
-[Culture_Society] already have 18 articles
+[Culture_Society] already have 21 articles
   candidates found: 6
-  → L6  These US Cities Spend the Most on Groceries
-  → L5  1 in 10 Malaysian Men Borrow Money to Pay for Dates
-  → L7  'Maxxing' Named Dictionary.com's Word of the Year
+  → L8  The Story of Mexico's _Dia de los Muertos_
+  → L6  US Parents Say Having a Baby Is Too Expensive
+  → L9  Patrick Stewart, Legendary _Star Trek_ Actor, Dies at 86
 
-[Travel_Experiences] already have 18 articles
+[Travel_Experiences] already have 21 articles
   candidates found: 6
-  → L7  Travelers Are Taking Trips Just to Buy Souvenirs
-  → L5  Portuguese Most Likely to Post Travel Selfies — Survey
-  → L6  Japan Is Getting Its First Disney Cruise Ship
+  → L6  See Less, Enjoy More: The Biggest Travel Trends for 2027
+  → L5  Hokkaido Voted Most Attractive Prefecture for 18th Time
+  → L4  Japan's Longest Loop Trail Opens in Ibaraki
 
 ============================================================
 Finished. Added 15 articles. Success=True
