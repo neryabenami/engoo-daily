@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-19 01:00:33 UTC
+Engoo Daily fetch started – 2026-11-19 11:58:33 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 21 articles
+[Business_Politics] already have 24 articles
   candidates found: 6
-  → L6  27% of US Workers Using Savings to Cover Expenses
-  → L9  Serbia's Vucic Concedes Defeat to Student-Led Movement
-  → L7  Women Worry More About Mistakes on Male Teams
+  → L6  What's the Best Month for Getting Hired?
+  → L7  Clothing Defects Kill Brand Loyalty — Survey
+  → L7  Workplace Gossip: When It Helps and When It Hurts
 
-[Science_Technology] already have 21 articles
+[Science_Technology] already have 24 articles
   candidates found: 6
-  → L8  People Would Pay 'Male' AI Agents More, Study Finds 
-  → L7  Americans Want Cars That Work Like Smartphones
-  → L5  What Would You Trust AI to Do for You?
+  → L8  People Essential for Biodiversity in Rural Japan — Study
+  → L7  Phone Habits May Reveal Stress Levels, Study Says 
+  → L8  Emotions Beat Facts in Climate Campaigns — Study
 
-[Health_Lifestyle] already have 21 articles
+[Health_Lifestyle] already have 24 articles
   candidates found: 6
-  → L6  Hawaii Leads US in Life Expectancy
-  → L7  Listening to Your Favorite Music May Help Ease Pain
-  → L5  These Symptoms Send Japanese People to the Doctor
+  → L6  Americans Spend 67 Days a Year Feeling 'Half Present'
+  → L7  Strong Sense of Identity Linked to Mental Well-Being
+  → L6  Exercise in Nature Improves Performance and Mood
 
-[Culture_Society] already have 21 articles
+[Culture_Society] already have 24 articles
   candidates found: 6
-  → L8  The Story of Mexico's _Dia de los Muertos_
-  → L6  US Parents Say Having a Baby Is Too Expensive
-  → L9  Patrick Stewart, Legendary _Star Trek_ Actor, Dies at 86
+  → L7  Top Scorer on S. Korean Exam Admits to AI Cheating
+  → L5  Just 28% of Japanese Parents Want a Second Child
+  → L6  How to Carve the Perfect Halloween Pumpkin
 
-[Travel_Experiences] already have 21 articles
+[Travel_Experiences] already have 24 articles
   candidates found: 6
-  → L6  See Less, Enjoy More: The Biggest Travel Trends for 2027
-  → L5  Hokkaido Voted Most Attractive Prefecture for 18th Time
-  → L4  Japan's Longest Loop Trail Opens in Ibaraki
+  → L5  The Average Traveler Forgets to Pack 3 Things — Survey
+  → L6  Most Brits Oppose Tourist Taxes — Except in Hotspots 
+  → L7  Japan Voted _Condé Nast's_ 'Top Country'
 
 ============================================================
 Finished. Added 15 articles. Success=True

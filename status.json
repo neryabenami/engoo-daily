@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-19 01:00:33 UTC",
+  "started": "2026-11-19 11:58:33 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 21,
+      "existing": 24,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "27% of US Workers Using Savings to Cover Expenses",
+          "title": "What's the Best Month for Getting Hired?",
           "level": 6,
-          "file": "27%_of_US_Workers_Using_Savings_to_Cover_Expenses_level6.txt"
+          "file": "What's_the_Best_Month_for_Getting_Hired_level6.txt"
         },
         {
-          "title": "Serbia's Vucic Concedes Defeat to Student-Led Movement",
-          "level": 9,
-          "file": "Serbia's_Vucic_Concedes_Defeat_to_Student-Led_Movement_level9.txt"
-        },
-        {
-          "title": "Women Worry More About Mistakes on Male Teams",
+          "title": "Clothing Defects Kill Brand Loyalty — Survey",
           "level": 7,
-          "file": "Women_Worry_More_About_Mistakes_on_Male_Teams_level7.txt"
+          "file": "Clothing_Defects_Kill_Brand_Loyalty_—_Survey_level7.txt"
+        },
+        {
+          "title": "Workplace Gossip: When It Helps and When It Hurts",
+          "level": 7,
+          "file": "Workplace_Gossip_When_It_Helps_and_When_It_Hurts_level7.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 21,
+      "existing": 24,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "People Would Pay 'Male' AI Agents More, Study Finds ",
+          "title": "People Essential for Biodiversity in Rural Japan — Study",
           "level": 8,
-          "file": "People_Would_Pay_'Male'_AI_Agents_More,_Study_Finds_level8.txt"
+          "file": "People_Essential_for_Biodiversity_in_Rural_Japan_—_Study_level8.txt"
         },
         {
-          "title": "Americans Want Cars That Work Like Smartphones",
+          "title": "Phone Habits May Reveal Stress Levels, Study Says ",
           "level": 7,
-          "file": "Americans_Want_Cars_That_Work_Like_Smartphones_level7.txt"
+          "file": "Phone_Habits_May_Reveal_Stress_Levels,_Study_Says_level7.txt"
         },
         {
-          "title": "What Would You Trust AI to Do for You?",
-          "level": 5,
-          "file": "What_Would_You_Trust_AI_to_Do_for_You_level5.txt"
+          "title": "Emotions Beat Facts in Climate Campaigns — Study",
+          "level": 8,
+          "file": "Emotions_Beat_Facts_in_Climate_Campaigns_—_Study_level8.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 21,
+      "existing": 24,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Hawaii Leads US in Life Expectancy",
+          "title": "Americans Spend 67 Days a Year Feeling 'Half Present'",
           "level": 6,
-          "file": "Hawaii_Leads_US_in_Life_Expectancy_level6.txt"
+          "file": "Americans_Spend_67_Days_a_Year_Feeling_'Half_Present'_level6.txt"
         },
         {
-          "title": "Listening to Your Favorite Music May Help Ease Pain",
+          "title": "Strong Sense of Identity Linked to Mental Well-Being",
           "level": 7,
-          "file": "Listening_to_Your_Favorite_Music_May_Help_Ease_Pain_level7.txt"
+          "file": "Strong_Sense_of_Identity_Linked_to_Mental_Well-Being_level7.txt"
         },
         {
-          "title": "These Symptoms Send Japanese People to the Doctor",
-          "level": 5,
-          "file": "These_Symptoms_Send_Japanese_People_to_the_Doctor_level5.txt"
+          "title": "Exercise in Nature Improves Performance and Mood",
+          "level": 6,
+          "file": "Exercise_in_Nature_Improves_Performance_and_Mood_level6.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 21,
+      "existing": 24,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "The Story of Mexico's _Dia de los Muertos_",
-          "level": 8,
-          "file": "The_Story_of_Mexico's__Dia_de_los_Muertos_level8.txt"
+          "title": "Top Scorer on S. Korean Exam Admits to AI Cheating",
+          "level": 7,
+          "file": "Top_Scorer_on_S._Korean_Exam_Admits_to_AI_Cheating_level7.txt"
         },
         {
-          "title": "US Parents Say Having a Baby Is Too Expensive",
+          "title": "Just 28% of Japanese Parents Want a Second Child",
+          "level": 5,
+          "file": "Just_28%_of_Japanese_Parents_Want_a_Second_Child_level5.txt"
+        },
+        {
+          "title": "How to Carve the Perfect Halloween Pumpkin",
           "level": 6,
-          "file": "US_Parents_Say_Having_a_Baby_Is_Too_Expensive_level6.txt"
-        },
-        {
-          "title": "Patrick Stewart, Legendary _Star Trek_ Actor, Dies at 86",
-          "level": 9,
-          "file": "Patrick_Stewart,_Legendary__Star_Trek__Actor,_Dies_at_86_level9.txt"
+          "file": "How_to_Carve_the_Perfect_Halloween_Pumpkin_level6.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 21,
+      "existing": 24,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "See Less, Enjoy More: The Biggest Travel Trends for 2027",
-          "level": 6,
-          "file": "See_Less,_Enjoy_More_The_Biggest_Travel_Trends_for_2027_level6.txt"
-        },
-        {
-          "title": "Hokkaido Voted Most Attractive Prefecture for 18th Time",
+          "title": "The Average Traveler Forgets to Pack 3 Things — Survey",
           "level": 5,
-          "file": "Hokkaido_Voted_Most_Attractive_Prefecture_for_18th_Time_level5.txt"
+          "file": "The_Average_Traveler_Forgets_to_Pack_3_Things_—_Survey_level5.txt"
         },
         {
-          "title": "Japan's Longest Loop Trail Opens in Ibaraki",
-          "level": 4,
-          "file": "Japan's_Longest_Loop_Trail_Opens_in_Ibaraki_level4.txt"
+          "title": "Most Brits Oppose Tourist Taxes — Except in Hotspots ",
+          "level": 6,
+          "file": "Most_Brits_Oppose_Tourist_Taxes_—_Except_in_Hotspots_level6.txt"
+        },
+        {
+          "title": "Japan Voted _Condé Nast's_ 'Top Country'",
+          "level": 7,
+          "file": "Japan_Voted__Condé_Nast's__'Top_Country'_level7.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-19 01:00:44 UTC"
+  "finished": "2026-11-19 11:58:45 UTC"
 }
