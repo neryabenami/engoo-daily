@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-19 11:58:33 UTC
+Engoo Daily fetch started – 2026-11-20 01:00:33 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 24 articles
-  candidates found: 6
-  → L6  What's the Best Month for Getting Hired?
-  → L7  Clothing Defects Kill Brand Loyalty — Survey
-  → L7  Workplace Gossip: When It Helps and When It Hurts
+[Business_Politics] already have 27 articles
+  candidates found: 3
+  → L6  How Your Morning Mood May Affect Your Workday
+  → L5  Some Shinkansen Tickets to Increase in Price in 2027
+  → L6  'Loud Working' Is the New Workplace Trend
 
-[Science_Technology] already have 24 articles
-  candidates found: 6
-  → L8  People Essential for Biodiversity in Rural Japan — Study
-  → L7  Phone Habits May Reveal Stress Levels, Study Says 
-  → L8  Emotions Beat Facts in Climate Campaigns — Study
+[Science_Technology] already have 27 articles
+  candidates found: 3
+  → L8  _Grand Theft Auto VI_ Released After 13-Year Wait
+  → L7  Waymo Suspends Driverless Freeway Rides Across US
+  → L7  Danish Supermarket Tests Humanoid Robot Workers
 
-[Health_Lifestyle] already have 24 articles
-  candidates found: 6
-  → L6  Americans Spend 67 Days a Year Feeling 'Half Present'
-  → L7  Strong Sense of Identity Linked to Mental Well-Being
-  → L6  Exercise in Nature Improves Performance and Mood
+[Health_Lifestyle] already have 27 articles
+  candidates found: 3
+  → L6  Weekly Park Visits Help Kids Both Socially and Emotionally
+  → L6  Hot Baths May Help Your Heart, Study Finds
+  → L7  New Dementia Cases Could More than Double by 2050
 
-[Culture_Society] already have 24 articles
-  candidates found: 6
-  → L7  Top Scorer on S. Korean Exam Admits to AI Cheating
-  → L5  Just 28% of Japanese Parents Want a Second Child
-  → L6  How to Carve the Perfect Halloween Pumpkin
+[Culture_Society] already have 27 articles
+  candidates found: 3
+  → L7  Others' Bad Behavior Can Make Ours Worse, Says Study
+  → L5  What Do British People Complain About Most?
+  → L7  Adults More Creative than Kids, Less Confident — Study
 
-[Travel_Experiences] already have 24 articles
-  candidates found: 6
-  → L5  The Average Traveler Forgets to Pack 3 Things — Survey
-  → L6  Most Brits Oppose Tourist Taxes — Except in Hotspots 
-  → L7  Japan Voted _Condé Nast's_ 'Top Country'
+[Travel_Experiences] already have 27 articles
+  candidates found: 3
+  → L6  Okinawa, Tohoku Named Must-Visits for 2027 
+  → L7  Many Travelers Become Different People on Vacation
+  → L5  Travelers Lose Nearly $2,500 to Trip Troubles
 
 ============================================================
 Finished. Added 15 articles. Success=True
