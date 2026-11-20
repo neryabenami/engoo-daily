@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-20 01:00:33 UTC
+Engoo Daily fetch started – 2026-11-20 11:59:41 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 27 articles
-  candidates found: 3
-  → L6  How Your Morning Mood May Affect Your Workday
-  → L5  Some Shinkansen Tickets to Increase in Price in 2027
-  → L6  'Loud Working' Is the New Workplace Trend
+[Business_Politics] already have 30 articles
+  candidates found: 6
+  → L4  54% of US Workers Skip Lunch at Least Once a Week
+  → L7  Asia-Pacific Youth Want Real-World Work Skills
+  → L7  9% of UK Workers Got No Job Onboarding — Survey
 
-[Science_Technology] already have 27 articles
-  candidates found: 3
-  → L8  _Grand Theft Auto VI_ Released After 13-Year Wait
-  → L7  Waymo Suspends Driverless Freeway Rides Across US
-  → L7  Danish Supermarket Tests Humanoid Robot Workers
+[Science_Technology] already have 30 articles
+  candidates found: 6
+  → L7  Trust in Science Is Falling, Global Survey Finds
+  → L9  Cyberattack Disrupts Hundreds of French Supermarkets
+  → L8  Huge Study Links Screen Time to Developmental Issues
 
-[Health_Lifestyle] already have 27 articles
-  candidates found: 3
-  → L6  Weekly Park Visits Help Kids Both Socially and Emotionally
-  → L6  Hot Baths May Help Your Heart, Study Finds
-  → L7  New Dementia Cases Could More than Double by 2050
+[Health_Lifestyle] already have 30 articles
+  candidates found: 6
+  → L6  Air Pollution Is Slowing Down Marathon Runners — Study 
+  → L8  Four Reasons to Add Beans to Your Diet 
+  → L8  Staying in Work Best for Brain Health — Study
 
-[Culture_Society] already have 27 articles
-  candidates found: 3
-  → L7  Others' Bad Behavior Can Make Ours Worse, Says Study
-  → L5  What Do British People Complain About Most?
-  → L7  Adults More Creative than Kids, Less Confident — Study
+[Culture_Society] already have 30 articles
+  candidates found: 6
+  → L7  'Loudcasters' on English Buses to Face Fines
+  → L6  Finland's 24/7 Puppy Livestream Draws Millions
+  → L5  Money-Smart Friends Could Save You $500 a Year
 
-[Travel_Experiences] already have 27 articles
-  candidates found: 3
-  → L6  Okinawa, Tohoku Named Must-Visits for 2027 
-  → L7  Many Travelers Become Different People on Vacation
-  → L5  Travelers Lose Nearly $2,500 to Trip Troubles
+[Travel_Experiences] already have 30 articles
+  candidates found: 6
+  → L6  Kyoto Attraction Finds Fun in 'Night Farming'
+  → L6  Traveling with Friends? Expect to Fight over Costs!
+  → L6  Cars, Trains or Planes: How Do Europeans Travel?
 
 ============================================================
 Finished. Added 15 articles. Success=True

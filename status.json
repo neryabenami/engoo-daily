@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-20 01:00:33 UTC",
+  "started": "2026-11-20 11:59:41 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 27,
+      "existing": 30,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "How Your Morning Mood May Affect Your Workday",
-          "level": 6,
-          "file": "How_Your_Morning_Mood_May_Affect_Your_Workday_level6.txt"
+          "title": "54% of US Workers Skip Lunch at Least Once a Week",
+          "level": 4,
+          "file": "54%_of_US_Workers_Skip_Lunch_at_Least_Once_a_Week_level4.txt"
         },
         {
-          "title": "Some Shinkansen Tickets to Increase in Price in 2027",
-          "level": 5,
-          "file": "Some_Shinkansen_Tickets_to_Increase_in_Price_in_2027_level5.txt"
+          "title": "Asia-Pacific Youth Want Real-World Work Skills",
+          "level": 7,
+          "file": "Asia-Pacific_Youth_Want_Real-World_Work_Skills_level7.txt"
         },
         {
-          "title": "'Loud Working' Is the New Workplace Trend",
-          "level": 6,
-          "file": "'Loud_Working'_Is_the_New_Workplace_Trend_level6.txt"
+          "title": "9% of UK Workers Got No Job Onboarding — Survey",
+          "level": 7,
+          "file": "9%_of_UK_Workers_Got_No_Job_Onboarding_—_Survey_level7.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 27,
+      "existing": 30,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "_Grand Theft Auto VI_ Released After 13-Year Wait",
+          "title": "Trust in Science Is Falling, Global Survey Finds",
+          "level": 7,
+          "file": "Trust_in_Science_Is_Falling,_Global_Survey_Finds_level7.txt"
+        },
+        {
+          "title": "Cyberattack Disrupts Hundreds of French Supermarkets",
+          "level": 9,
+          "file": "Cyberattack_Disrupts_Hundreds_of_French_Supermarkets_level9.txt"
+        },
+        {
+          "title": "Huge Study Links Screen Time to Developmental Issues",
           "level": 8,
-          "file": "_Grand_Theft_Auto_VI__Released_After_13-Year_Wait_level8.txt"
-        },
-        {
-          "title": "Waymo Suspends Driverless Freeway Rides Across US",
-          "level": 7,
-          "file": "Waymo_Suspends_Driverless_Freeway_Rides_Across_US_level7.txt"
-        },
-        {
-          "title": "Danish Supermarket Tests Humanoid Robot Workers",
-          "level": 7,
-          "file": "Danish_Supermarket_Tests_Humanoid_Robot_Workers_level7.txt"
+          "file": "Huge_Study_Links_Screen_Time_to_Developmental_Issues_level8.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 27,
+      "existing": 30,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Weekly Park Visits Help Kids Both Socially and Emotionally",
+          "title": "Air Pollution Is Slowing Down Marathon Runners — Study ",
           "level": 6,
-          "file": "Weekly_Park_Visits_Help_Kids_Both_Socially_and_Emotionally_level6.txt"
+          "file": "Air_Pollution_Is_Slowing_Down_Marathon_Runners_—_Study_level6.txt"
         },
         {
-          "title": "Hot Baths May Help Your Heart, Study Finds",
-          "level": 6,
-          "file": "Hot_Baths_May_Help_Your_Heart,_Study_Finds_level6.txt"
+          "title": "Four Reasons to Add Beans to Your Diet ",
+          "level": 8,
+          "file": "Four_Reasons_to_Add_Beans_to_Your_Diet_level8.txt"
         },
         {
-          "title": "New Dementia Cases Could More than Double by 2050",
-          "level": 7,
-          "file": "New_Dementia_Cases_Could_More_than_Double_by_2050_level7.txt"
+          "title": "Staying in Work Best for Brain Health — Study",
+          "level": 8,
+          "file": "Staying_in_Work_Best_for_Brain_Health_—_Study_level8.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 27,
+      "existing": 30,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Others' Bad Behavior Can Make Ours Worse, Says Study",
+          "title": "'Loudcasters' on English Buses to Face Fines",
           "level": 7,
-          "file": "Others'_Bad_Behavior_Can_Make_Ours_Worse,_Says_Study_level7.txt"
+          "file": "'Loudcasters'_on_English_Buses_to_Face_Fines_level7.txt"
         },
         {
-          "title": "What Do British People Complain About Most?",
+          "title": "Finland's 24/7 Puppy Livestream Draws Millions",
+          "level": 6,
+          "file": "Finland's_247_Puppy_Livestream_Draws_Millions_level6.txt"
+        },
+        {
+          "title": "Money-Smart Friends Could Save You $500 a Year",
           "level": 5,
-          "file": "What_Do_British_People_Complain_About_Most_level5.txt"
-        },
-        {
-          "title": "Adults More Creative than Kids, Less Confident — Study",
-          "level": 7,
-          "file": "Adults_More_Creative_than_Kids,_Less_Confident_—_Study_level7.txt"
+          "file": "Money-Smart_Friends_Could_Save_You_$500_a_Year_level5.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 27,
+      "existing": 30,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Okinawa, Tohoku Named Must-Visits for 2027 ",
+          "title": "Kyoto Attraction Finds Fun in 'Night Farming'",
           "level": 6,
-          "file": "Okinawa,_Tohoku_Named_Must-Visits_for_2027_level6.txt"
+          "file": "Kyoto_Attraction_Finds_Fun_in_'Night_Farming'_level6.txt"
         },
         {
-          "title": "Many Travelers Become Different People on Vacation",
-          "level": 7,
-          "file": "Many_Travelers_Become_Different_People_on_Vacation_level7.txt"
+          "title": "Traveling with Friends? Expect to Fight over Costs!",
+          "level": 6,
+          "file": "Traveling_with_Friends_Expect_to_Fight_over_Costs!_level6.txt"
         },
         {
-          "title": "Travelers Lose Nearly $2,500 to Trip Troubles",
-          "level": 5,
-          "file": "Travelers_Lose_Nearly_$2,500_to_Trip_Troubles_level5.txt"
+          "title": "Cars, Trains or Planes: How Do Europeans Travel?",
+          "level": 6,
+          "file": "Cars,_Trains_or_Planes_How_Do_Europeans_Travel_level6.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-20 01:00:46 UTC"
+  "finished": "2026-11-20 11:59:55 UTC"
 }
