@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-20 11:59:41 UTC",
+  "started": "2026-11-21 01:00:41 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 30,
+      "existing": 33,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "54% of US Workers Skip Lunch at Least Once a Week",
-          "level": 4,
-          "file": "54%_of_US_Workers_Skip_Lunch_at_Least_Once_a_Week_level4.txt"
+          "title": "Trump, Xi and Putin Hold Historic Talks in China",
+          "level": 9,
+          "file": "Trump,_Xi_and_Putin_Hold_Historic_Talks_in_China_level9.txt"
         },
         {
-          "title": "Asia-Pacific Youth Want Real-World Work Skills",
-          "level": 7,
-          "file": "Asia-Pacific_Youth_Want_Real-World_Work_Skills_level7.txt"
+          "title": "Japan's Egg Prices at Record Highs",
+          "level": 5,
+          "file": "Japan's_Egg_Prices_at_Record_Highs_level5.txt"
         },
         {
-          "title": "9% of UK Workers Got No Job Onboarding — Survey",
-          "level": 7,
-          "file": "9%_of_UK_Workers_Got_No_Job_Onboarding_—_Survey_level7.txt"
+          "title": "Bored at Work? You May Be Feeling 'Rustout'",
+          "level": 8,
+          "file": "Bored_at_Work_You_May_Be_Feeling_'Rustout'_level8.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 30,
+      "existing": 33,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Trust in Science Is Falling, Global Survey Finds",
-          "level": 7,
-          "file": "Trust_in_Science_Is_Falling,_Global_Survey_Finds_level7.txt"
+          "title": "Cats May Meow to Ask Us to Solve Their Problems",
+          "level": 6,
+          "file": "Cats_May_Meow_to_Ask_Us_to_Solve_Their_Problems_level6.txt"
         },
         {
-          "title": "Cyberattack Disrupts Hundreds of French Supermarkets",
-          "level": 9,
-          "file": "Cyberattack_Disrupts_Hundreds_of_French_Supermarkets_level9.txt"
+          "title": "59% of Americans Get Their News from Social Media ",
+          "level": 5,
+          "file": "59%_of_Americans_Get_Their_News_from_Social_Media_level5.txt"
         },
         {
-          "title": "Huge Study Links Screen Time to Developmental Issues",
-          "level": 8,
-          "file": "Huge_Study_Links_Screen_Time_to_Developmental_Issues_level8.txt"
+          "title": "App Gets Berliners to Water City Trees",
+          "level": 6,
+          "file": "App_Gets_Berliners_to_Water_City_Trees_level6.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 30,
+      "existing": 33,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Air Pollution Is Slowing Down Marathon Runners — Study ",
-          "level": 6,
-          "file": "Air_Pollution_Is_Slowing_Down_Marathon_Runners_—_Study_level6.txt"
+          "title": "A Dark Bedroom May Be Better for Your Heart",
+          "level": 8,
+          "file": "A_Dark_Bedroom_May_Be_Better_for_Your_Heart_level8.txt"
         },
         {
-          "title": "Four Reasons to Add Beans to Your Diet ",
-          "level": 8,
-          "file": "Four_Reasons_to_Add_Beans_to_Your_Diet_level8.txt"
+          "title": "Eating with Others Better for Blood Sugar — Study",
+          "level": 7,
+          "file": "Eating_with_Others_Better_for_Blood_Sugar_—_Study_level7.txt"
         },
         {
-          "title": "Staying in Work Best for Brain Health — Study",
-          "level": 8,
-          "file": "Staying_in_Work_Best_for_Brain_Health_—_Study_level8.txt"
+          "title": "Americans Use AI to Choose Healthy Snacks, Says Report ",
+          "level": 7,
+          "file": "Americans_Use_AI_to_Choose_Healthy_Snacks,_Says_Report_level7.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 30,
+      "existing": 33,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "'Loudcasters' on English Buses to Face Fines",
-          "level": 7,
-          "file": "'Loudcasters'_on_English_Buses_to_Face_Fines_level7.txt"
-        },
-        {
-          "title": "Finland's 24/7 Puppy Livestream Draws Millions",
+          "title": "Ichiran Releases At-Home Ramen Booth",
           "level": 6,
-          "file": "Finland's_247_Puppy_Livestream_Draws_Millions_level6.txt"
+          "file": "Ichiran_Releases_At-Home_Ramen_Booth_level6.txt"
         },
         {
-          "title": "Money-Smart Friends Could Save You $500 a Year",
-          "level": 5,
-          "file": "Money-Smart_Friends_Could_Save_You_$500_a_Year_level5.txt"
+          "title": "Putting Alcohol-Free Beer on Tap Pays Off for Pubs",
+          "level": 7,
+          "file": "Putting_Alcohol-Free_Beer_on_Tap_Pays_Off_for_Pubs_level7.txt"
+        },
+        {
+          "title": "Just 25% of Americans Plan to Dress Up for Halloween",
+          "level": 6,
+          "file": "Just_25%_of_Americans_Plan_to_Dress_Up_for_Halloween_level6.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 30,
+      "existing": 33,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Kyoto Attraction Finds Fun in 'Night Farming'",
-          "level": 6,
-          "file": "Kyoto_Attraction_Finds_Fun_in_'Night_Farming'_level6.txt"
+          "title": "Travelers Value Sustainability — But Only If It's Cheap",
+          "level": 7,
+          "file": "Travelers_Value_Sustainability_—_But_Only_If_It's_Cheap_level7.txt"
         },
         {
-          "title": "Traveling with Friends? Expect to Fight over Costs!",
+          "title": "Business Travelers Just Want Some Time Alone ",
           "level": 6,
-          "file": "Traveling_with_Friends_Expect_to_Fight_over_Costs!_level6.txt"
+          "file": "Business_Travelers_Just_Want_Some_Time_Alone_level6.txt"
         },
         {
-          "title": "Cars, Trains or Planes: How Do Europeans Travel?",
-          "level": 6,
-          "file": "Cars,_Trains_or_Planes_How_Do_Europeans_Travel_level6.txt"
+          "title": "How to Meet People as a Solo Traveler",
+          "level": 4,
+          "file": "How_to_Meet_People_as_a_Solo_Traveler_level4.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-20 11:59:55 UTC"
+  "finished": "2026-11-21 01:00:54 UTC"
 }
