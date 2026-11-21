@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-21 01:00:41 UTC
+Engoo Daily fetch started – 2026-11-21 11:33:52 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 33 articles
+[Business_Politics] already have 36 articles
   candidates found: 6
-  → L9  Trump, Xi and Putin Hold Historic Talks in China
-  → L5  Japan's Egg Prices at Record Highs
-  → L8  Bored at Work? You May Be Feeling 'Rustout'
+  → L8  Uniqlo Set to Be World's Second-Largest Fashion Retailer
+  → L6  Half of US Workers Thinking About a Backup Career
+  → L5  Japan's 'Donald McDonald' Officially Becomes 'Ronald'
 
-[Science_Technology] already have 33 articles
+[Science_Technology] already have 36 articles
   candidates found: 6
-  → L6  Cats May Meow to Ask Us to Solve Their Problems
-  → L5  59% of Americans Get Their News from Social Media 
-  → L6  App Gets Berliners to Water City Trees
+  → L6  Climate Change Could Wipe Out Japan's Ski Resorts
+  → L8  Old Books Likely Being Destroyed to Train AI
+  → L8  Norway Seeks Temporary Ban on Smart Glasses
 
-[Health_Lifestyle] already have 33 articles
+[Health_Lifestyle] already have 36 articles
   candidates found: 6
-  → L8  A Dark Bedroom May Be Better for Your Heart
-  → L7  Eating with Others Better for Blood Sugar — Study
-  → L7  Americans Use AI to Choose Healthy Snacks, Says Report 
+  → L8  Why 'Healthy' Food Labels Don't Tell the Whole Story
+  → L7  Banning Sugary Food at Checkouts Cuts Soda Sales
+  → L6  How to Make a Dish Less Spicy
 
-[Culture_Society] already have 33 articles
+[Culture_Society] already have 36 articles
   candidates found: 6
-  → L6  Ichiran Releases At-Home Ramen Booth
-  → L7  Putting Alcohol-Free Beer on Tap Pays Off for Pubs
-  → L6  Just 25% of Americans Plan to Dress Up for Halloween
+  → L6  Brits Watch 44 Movies or Shows in Bed a Year
+  → L6  Literature May Help People Be More Forgiving — Study
+  → L6  Many Japanese Parents Don't Find Mealtimes Enjoyable
 
-[Travel_Experiences] already have 33 articles
+[Travel_Experiences] already have 36 articles
   candidates found: 6
-  → L7  Travelers Value Sustainability — But Only If It's Cheap
-  → L6  Business Travelers Just Want Some Time Alone 
-  → L4  How to Meet People as a Solo Traveler
+  → L9  Visitors Flock to China's Sacred Wudang Mountains
+  → L6  Singapore Wins World's Best Airline Award for 2026
+  → L5  Japan Airports Test Clothes-Shrinking Machines
 
 ============================================================
 Finished. Added 15 articles. Success=True

@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-21 01:00:41 UTC",
+  "started": "2026-11-21 11:33:52 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 33,
+      "existing": 36,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Trump, Xi and Putin Hold Historic Talks in China",
-          "level": 9,
-          "file": "Trump,_Xi_and_Putin_Hold_Historic_Talks_in_China_level9.txt"
-        },
-        {
-          "title": "Japan's Egg Prices at Record Highs",
-          "level": 5,
-          "file": "Japan's_Egg_Prices_at_Record_Highs_level5.txt"
-        },
-        {
-          "title": "Bored at Work? You May Be Feeling 'Rustout'",
+          "title": "Uniqlo Set to Be World's Second-Largest Fashion Retailer",
           "level": 8,
-          "file": "Bored_at_Work_You_May_Be_Feeling_'Rustout'_level8.txt"
+          "file": "Uniqlo_Set_to_Be_World's_Second-Largest_Fashion_Retailer_level8.txt"
+        },
+        {
+          "title": "Half of US Workers Thinking About a Backup Career",
+          "level": 6,
+          "file": "Half_of_US_Workers_Thinking_About_a_Backup_Career_level6.txt"
+        },
+        {
+          "title": "Japan's 'Donald McDonald' Officially Becomes 'Ronald'",
+          "level": 5,
+          "file": "Japan's_'Donald_McDonald'_Officially_Becomes_'Ronald'_level5.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 33,
+      "existing": 36,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Cats May Meow to Ask Us to Solve Their Problems",
+          "title": "Climate Change Could Wipe Out Japan's Ski Resorts",
           "level": 6,
-          "file": "Cats_May_Meow_to_Ask_Us_to_Solve_Their_Problems_level6.txt"
+          "file": "Climate_Change_Could_Wipe_Out_Japan's_Ski_Resorts_level6.txt"
         },
         {
-          "title": "59% of Americans Get Their News from Social Media ",
-          "level": 5,
-          "file": "59%_of_Americans_Get_Their_News_from_Social_Media_level5.txt"
+          "title": "Old Books Likely Being Destroyed to Train AI",
+          "level": 8,
+          "file": "Old_Books_Likely_Being_Destroyed_to_Train_AI_level8.txt"
         },
         {
-          "title": "App Gets Berliners to Water City Trees",
-          "level": 6,
-          "file": "App_Gets_Berliners_to_Water_City_Trees_level6.txt"
+          "title": "Norway Seeks Temporary Ban on Smart Glasses",
+          "level": 8,
+          "file": "Norway_Seeks_Temporary_Ban_on_Smart_Glasses_level8.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 33,
+      "existing": 36,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "A Dark Bedroom May Be Better for Your Heart",
+          "title": "Why 'Healthy' Food Labels Don't Tell the Whole Story",
           "level": 8,
-          "file": "A_Dark_Bedroom_May_Be_Better_for_Your_Heart_level8.txt"
+          "file": "Why_'Healthy'_Food_Labels_Don't_Tell_the_Whole_Story_level8.txt"
         },
         {
-          "title": "Eating with Others Better for Blood Sugar — Study",
+          "title": "Banning Sugary Food at Checkouts Cuts Soda Sales",
           "level": 7,
-          "file": "Eating_with_Others_Better_for_Blood_Sugar_—_Study_level7.txt"
+          "file": "Banning_Sugary_Food_at_Checkouts_Cuts_Soda_Sales_level7.txt"
         },
         {
-          "title": "Americans Use AI to Choose Healthy Snacks, Says Report ",
-          "level": 7,
-          "file": "Americans_Use_AI_to_Choose_Healthy_Snacks,_Says_Report_level7.txt"
+          "title": "How to Make a Dish Less Spicy",
+          "level": 6,
+          "file": "How_to_Make_a_Dish_Less_Spicy_level6.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 33,
+      "existing": 36,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Ichiran Releases At-Home Ramen Booth",
+          "title": "Brits Watch 44 Movies or Shows in Bed a Year",
           "level": 6,
-          "file": "Ichiran_Releases_At-Home_Ramen_Booth_level6.txt"
+          "file": "Brits_Watch_44_Movies_or_Shows_in_Bed_a_Year_level6.txt"
         },
         {
-          "title": "Putting Alcohol-Free Beer on Tap Pays Off for Pubs",
-          "level": 7,
-          "file": "Putting_Alcohol-Free_Beer_on_Tap_Pays_Off_for_Pubs_level7.txt"
+          "title": "Literature May Help People Be More Forgiving — Study",
+          "level": 6,
+          "file": "Literature_May_Help_People_Be_More_Forgiving_—_Study_level6.txt"
         },
         {
-          "title": "Just 25% of Americans Plan to Dress Up for Halloween",
+          "title": "Many Japanese Parents Don't Find Mealtimes Enjoyable",
           "level": 6,
-          "file": "Just_25%_of_Americans_Plan_to_Dress_Up_for_Halloween_level6.txt"
+          "file": "Many_Japanese_Parents_Don't_Find_Mealtimes_Enjoyable_level6.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 33,
+      "existing": 36,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Travelers Value Sustainability — But Only If It's Cheap",
-          "level": 7,
-          "file": "Travelers_Value_Sustainability_—_But_Only_If_It's_Cheap_level7.txt"
+          "title": "Visitors Flock to China's Sacred Wudang Mountains",
+          "level": 9,
+          "file": "Visitors_Flock_to_China's_Sacred_Wudang_Mountains_level9.txt"
         },
         {
-          "title": "Business Travelers Just Want Some Time Alone ",
+          "title": "Singapore Wins World's Best Airline Award for 2026",
           "level": 6,
-          "file": "Business_Travelers_Just_Want_Some_Time_Alone_level6.txt"
+          "file": "Singapore_Wins_World's_Best_Airline_Award_for_2026_level6.txt"
         },
         {
-          "title": "How to Meet People as a Solo Traveler",
-          "level": 4,
-          "file": "How_to_Meet_People_as_a_Solo_Traveler_level4.txt"
+          "title": "Japan Airports Test Clothes-Shrinking Machines",
+          "level": 5,
+          "file": "Japan_Airports_Test_Clothes-Shrinking_Machines_level5.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-21 01:00:54 UTC"
+  "finished": "2026-11-21 11:34:06 UTC"
 }
