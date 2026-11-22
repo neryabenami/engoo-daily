@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-21 11:33:52 UTC
+Engoo Daily fetch started – 2026-11-22 01:00:32 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 36 articles
+[Business_Politics] already have 39 articles
   candidates found: 6
-  → L8  Uniqlo Set to Be World's Second-Largest Fashion Retailer
-  → L6  Half of US Workers Thinking About a Backup Career
-  → L5  Japan's 'Donald McDonald' Officially Becomes 'Ronald'
+  → L8  Workplace Disputes Very Common in UK Companies
+  → L7  Japan 12th in Global Innovation Ranking
+  → L8  Paramount Completes $81 Billion Warner Bros. Takeover
 
-[Science_Technology] already have 36 articles
+[Science_Technology] already have 39 articles
   candidates found: 6
-  → L6  Climate Change Could Wipe Out Japan's Ski Resorts
-  → L8  Old Books Likely Being Destroyed to Train AI
-  → L8  Norway Seeks Temporary Ban on Smart Glasses
+  → L6  Can Playing Music Make Children Smarter?
+  → L6  Kid-Safe 'Freckle' Phone Builds Independence
+  → L9  Nobel Medicine Prize Awarded for Brain Research
 
-[Health_Lifestyle] already have 36 articles
+[Health_Lifestyle] already have 39 articles
   candidates found: 6
-  → L8  Why 'Healthy' Food Labels Don't Tell the Whole Story
-  → L7  Banning Sugary Food at Checkouts Cuts Soda Sales
-  → L6  How to Make a Dish Less Spicy
+  → L7  Fast Walking Helps Health, Even Below 10,000 Steps
+  → L7  8 in 10 Americans Take Health Supplements
+  → L6  Coffee Disturbs Sleep in Ways We May Not Notice
 
-[Culture_Society] already have 36 articles
+[Culture_Society] already have 39 articles
   candidates found: 6
-  → L6  Brits Watch 44 Movies or Shows in Bed a Year
-  → L6  Literature May Help People Be More Forgiving — Study
-  → L6  Many Japanese Parents Don't Find Mealtimes Enjoyable
+  → L7  Record Number of People Injured by Nara Deer
+  → L5  Japan's Suica Penguin to Be Replaced by Rabbit
+  → L7  Japan Sees Rise in Southeast Asian Residents
 
-[Travel_Experiences] already have 36 articles
+[Travel_Experiences] already have 39 articles
   candidates found: 6
-  → L9  Visitors Flock to China's Sacred Wudang Mountains
-  → L6  Singapore Wins World's Best Airline Award for 2026
-  → L5  Japan Airports Test Clothes-Shrinking Machines
+  → L6  Seoul Has the World's 'Coolest' Neighborhood
+  → L6  South Koreans Pick Japan for 'Babymoon' Shopping
+  → L7  _Tsukimi:_ Japan's Moon-Viewing Tradition
 
 ============================================================
 Finished. Added 15 articles. Success=True
