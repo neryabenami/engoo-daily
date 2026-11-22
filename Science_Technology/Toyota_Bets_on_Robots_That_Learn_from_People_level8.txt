@@ -1,0 +1,32 @@
+Title: Toyota Bets on Robots That Learn from People
+Level: 8
+Date: 2026-10-02
+Fetched: 2026-11-22 11:47:29 UTC
+
+============================================================
+VOCABULARY
+----------------------------------------
+( 6 vocabulary items in the original lesson )
+
+
+ARTICLE
+----------------------------------------
+Robots have been part of car production for decades. And as Toyota prepares to modernize its factories around the world, it's planning a major update to its robot workforce too.
+
+From 2028, Toyota is planning to spend around {{prn:$6.4 billion|six point four billion dollars}} a year improving its global production sites — including the introduction of around 400,000 robots at its factories, group companies and major suppliers.
+
+That figure includes new robots as well as replacements for older machines already in use.
+
+Toyota discussed its plans at an investor meeting at its European headquarters in Brussels, Belgium, in September. There, the company demonstrated one of the newer robots it's developing in-house — {{prn:ELEY|Ellie}}.
+
+{{prn:ELEY|Ellie}} stands for "Embodied Learning robot for Enhanced Yield." Much smaller and nimbler than the industrial robots typically found in an automotive plant, {{prn:ELEY|Ellie}} is a 50-kilogram humanoid robot that has two-fingered hands and moves around on wheels.
+
+{{prn:ELEY|Ellie}} has already been used on some Toyota production lines, where it has been learning by copying workers' movements. Workers wear special equipment modeled on the robot's fingers while doing their normal jobs, helping {{prn:ELEY|Ellie}} learn how to carry out the same work.
+
+At the Brussels meeting, Toyota demonstrated {{prn:ELEY's|Ellie's}} abilities with a more familiar task — folding T-shirts. After training on the task 1,500 times over two weeks, {{prn:ELEY|Ellie}} could fold the shirts with almost perfect accuracy.
+
+Toyota hopes that the skills learned by one robot could one day be transmitted to robots at other factories. Those robots might then even teach skills to new human workers, too.
+
+However, Toyota hasn't said how many of its planned 400,000 robots will be humanoids like {{prn:ELEY|Ellie}}, as the total also includes conventional industrial robots.
+
+The company says its goal is for people and robots to work together. Toyota's Hiroki Nakajima was quoted by _Nikkei Asia_ as saying, "We aim for a world where robots coexist with humans, rather than replacing them."

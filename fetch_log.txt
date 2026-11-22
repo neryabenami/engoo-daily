@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-22 01:00:32 UTC
+Engoo Daily fetch started – 2026-11-22 11:47:24 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 39 articles
+[Business_Politics] already have 42 articles
   candidates found: 6
-  → L8  Workplace Disputes Very Common in UK Companies
-  → L7  Japan 12th in Global Innovation Ranking
-  → L8  Paramount Completes $81 Billion Warner Bros. Takeover
+  → L6  Mister Donut Returns to China for First Time Since 2019
+  → L6  Japan Restaurants Let Diners Pay to Skip the Line
+  → L7  67% of Americans Change Their Personality at Work
 
-[Science_Technology] already have 39 articles
+[Science_Technology] already have 42 articles
   candidates found: 6
-  → L6  Can Playing Music Make Children Smarter?
-  → L6  Kid-Safe 'Freckle' Phone Builds Independence
-  → L9  Nobel Medicine Prize Awarded for Brain Research
+  → L8  Tokyo Court Protects Human Voices in AI Clone Case
+  → L6  Scientists Create Bananas That Stay Yellow Longer
+  → L8  Toyota Bets on Robots That Learn from People
 
-[Health_Lifestyle] already have 39 articles
+[Health_Lifestyle] already have 42 articles
   candidates found: 6
-  → L7  Fast Walking Helps Health, Even Below 10,000 Steps
-  → L7  8 in 10 Americans Take Health Supplements
-  → L6  Coffee Disturbs Sleep in Ways We May Not Notice
+  → L6  Your Weekend Eating Schedule May Affect Your Heart
+  → L7  Reading for Pleasure Improves Well-being
+  → L7  67% of Caregivers Feel Mentally Exhausted
 
-[Culture_Society] already have 39 articles
+[Culture_Society] already have 42 articles
   candidates found: 6
-  → L7  Record Number of People Injured by Nara Deer
-  → L5  Japan's Suica Penguin to Be Replaced by Rabbit
-  → L7  Japan Sees Rise in Southeast Asian Residents
+  → L7  Purple Is the New Green: Is Ube the Next Matcha?
+  → L6  Japan's Newspaper Subscription Rate Falls Below 50%
+  → L8  Procrastination Tops Academic Struggles, Study Finds
 
-[Travel_Experiences] already have 39 articles
+[Travel_Experiences] already have 42 articles
   candidates found: 6
-  → L6  Seoul Has the World's 'Coolest' Neighborhood
-  → L6  South Koreans Pick Japan for 'Babymoon' Shopping
-  → L7  _Tsukimi:_ Japan's Moon-Viewing Tradition
+  → L6  _Time Out_ Ranks the World's Best Cities for Cycling
+  → L6  What Are the World's Happiest Destinations?
+  → L7  The World's Most Rewarding Wildlife Travel Experiences
 
 ============================================================
 Finished. Added 15 articles. Success=True

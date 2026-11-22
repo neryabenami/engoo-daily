@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-22 01:00:32 UTC",
+  "started": "2026-11-22 11:47:24 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 39,
+      "existing": 42,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Workplace Disputes Very Common in UK Companies",
-          "level": 8,
-          "file": "Workplace_Disputes_Very_Common_in_UK_Companies_level8.txt"
+          "title": "Mister Donut Returns to China for First Time Since 2019",
+          "level": 6,
+          "file": "Mister_Donut_Returns_to_China_for_First_Time_Since_2019_level6.txt"
         },
         {
-          "title": "Japan 12th in Global Innovation Ranking",
+          "title": "Japan Restaurants Let Diners Pay to Skip the Line",
+          "level": 6,
+          "file": "Japan_Restaurants_Let_Diners_Pay_to_Skip_the_Line_level6.txt"
+        },
+        {
+          "title": "67% of Americans Change Their Personality at Work",
           "level": 7,
-          "file": "Japan_12th_in_Global_Innovation_Ranking_level7.txt"
-        },
-        {
-          "title": "Paramount Completes $81 Billion Warner Bros. Takeover",
-          "level": 8,
-          "file": "Paramount_Completes_$81_Billion_Warner_Bros._Takeover_level8.txt"
+          "file": "67%_of_Americans_Change_Their_Personality_at_Work_level7.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 39,
+      "existing": 42,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Can Playing Music Make Children Smarter?",
-          "level": 6,
-          "file": "Can_Playing_Music_Make_Children_Smarter_level6.txt"
+          "title": "Tokyo Court Protects Human Voices in AI Clone Case",
+          "level": 8,
+          "file": "Tokyo_Court_Protects_Human_Voices_in_AI_Clone_Case_level8.txt"
         },
         {
-          "title": "Kid-Safe 'Freckle' Phone Builds Independence",
+          "title": "Scientists Create Bananas That Stay Yellow Longer",
           "level": 6,
-          "file": "Kid-Safe_'Freckle'_Phone_Builds_Independence_level6.txt"
+          "file": "Scientists_Create_Bananas_That_Stay_Yellow_Longer_level6.txt"
         },
         {
-          "title": "Nobel Medicine Prize Awarded for Brain Research",
-          "level": 9,
-          "file": "Nobel_Medicine_Prize_Awarded_for_Brain_Research_level9.txt"
+          "title": "Toyota Bets on Robots That Learn from People",
+          "level": 8,
+          "file": "Toyota_Bets_on_Robots_That_Learn_from_People_level8.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 39,
+      "existing": 42,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Fast Walking Helps Health, Even Below 10,000 Steps",
-          "level": 7,
-          "file": "Fast_Walking_Helps_Health,_Even_Below_10,000_Steps_level7.txt"
-        },
-        {
-          "title": "8 in 10 Americans Take Health Supplements",
-          "level": 7,
-          "file": "8_in_10_Americans_Take_Health_Supplements_level7.txt"
-        },
-        {
-          "title": "Coffee Disturbs Sleep in Ways We May Not Notice",
+          "title": "Your Weekend Eating Schedule May Affect Your Heart",
           "level": 6,
-          "file": "Coffee_Disturbs_Sleep_in_Ways_We_May_Not_Notice_level6.txt"
+          "file": "Your_Weekend_Eating_Schedule_May_Affect_Your_Heart_level6.txt"
+        },
+        {
+          "title": "Reading for Pleasure Improves Well-being",
+          "level": 7,
+          "file": "Reading_for_Pleasure_Improves_Well-being_level7.txt"
+        },
+        {
+          "title": "67% of Caregivers Feel Mentally Exhausted",
+          "level": 7,
+          "file": "67%_of_Caregivers_Feel_Mentally_Exhausted_level7.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 39,
+      "existing": 42,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Record Number of People Injured by Nara Deer",
+          "title": "Purple Is the New Green: Is Ube the Next Matcha?",
           "level": 7,
-          "file": "Record_Number_of_People_Injured_by_Nara_Deer_level7.txt"
+          "file": "Purple_Is_the_New_Green_Is_Ube_the_Next_Matcha_level7.txt"
         },
         {
-          "title": "Japan's Suica Penguin to Be Replaced by Rabbit",
-          "level": 5,
-          "file": "Japan's_Suica_Penguin_to_Be_Replaced_by_Rabbit_level5.txt"
+          "title": "Japan's Newspaper Subscription Rate Falls Below 50%",
+          "level": 6,
+          "file": "Japan's_Newspaper_Subscription_Rate_Falls_Below_50%_level6.txt"
         },
         {
-          "title": "Japan Sees Rise in Southeast Asian Residents",
-          "level": 7,
-          "file": "Japan_Sees_Rise_in_Southeast_Asian_Residents_level7.txt"
+          "title": "Procrastination Tops Academic Struggles, Study Finds",
+          "level": 8,
+          "file": "Procrastination_Tops_Academic_Struggles,_Study_Finds_level8.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 39,
+      "existing": 42,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Seoul Has the World's 'Coolest' Neighborhood",
+          "title": "_Time Out_ Ranks the World's Best Cities for Cycling",
           "level": 6,
-          "file": "Seoul_Has_the_World's_'Coolest'_Neighborhood_level6.txt"
+          "file": "_Time_Out__Ranks_the_World's_Best_Cities_for_Cycling_level6.txt"
         },
         {
-          "title": "South Koreans Pick Japan for 'Babymoon' Shopping",
+          "title": "What Are the World's Happiest Destinations?",
           "level": 6,
-          "file": "South_Koreans_Pick_Japan_for_'Babymoon'_Shopping_level6.txt"
+          "file": "What_Are_the_World's_Happiest_Destinations_level6.txt"
         },
         {
-          "title": "_Tsukimi:_ Japan's Moon-Viewing Tradition",
+          "title": "The World's Most Rewarding Wildlife Travel Experiences",
           "level": 7,
-          "file": "_Tsukimi__Japan's_Moon-Viewing_Tradition_level7.txt"
+          "file": "The_World's_Most_Rewarding_Wildlife_Travel_Experiences_level7.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-22 01:00:47 UTC"
+  "finished": "2026-11-22 11:47:37 UTC"
 }
