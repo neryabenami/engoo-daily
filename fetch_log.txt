@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-23 01:00:33 UTC
+Engoo Daily fetch started – 2026-11-23 13:28:11 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 45 articles
+[Business_Politics] already have 48 articles
   candidates found: 6
-  → L6  Toys R Us Set to Leave Japan After 35 Years
-  → L7  Organic Food Prices Rising More than Other Food
-  → L6  EU Looks to Reduce Cheap Hybrid Cars from China
+  → L6  Half of Australians Feel Overqualified for Their Jobs
+  → L6  Over Half of Gen Z Plan to Job Hunt in 2026
+  → L8  Starbucks to Close 250 Stores in North America
 
-[Science_Technology] already have 45 articles
+[Science_Technology] already have 48 articles
   candidates found: 6
-  → L6  Kyoto Bar Lets Disabled People Work via Robot
-  → L7  Japan Turns to Heat-Resistant Rice as Climate Warms
-  → L8  Trump and Tech Giants Agree to 'Self-Police' AI
+  → L8  Starship Reaches Orbit for First Time, but Returns Early
+  → L7  Japanese 11-Year-Old Wins Esports Gold Medal
+  → L6  How Can You Spot Fake News? Talk to Others!
 
-[Health_Lifestyle] already have 45 articles
+[Health_Lifestyle] already have 48 articles
   candidates found: 6
-  → L8  Cranberry Juice May Fight Tooth Decay — Study
-  → L5  1 in 4 South Korean High Schoolers Sleep Under 5 Hours
-  → L6  Very Hot Drinks Could Increase Cancer Risk
+  → L5  More than 100,000 People in Japan Are 100 or Older
+  → L8  Sleep Trackers May Make You Feel More Tired
+  → L6  Nearly 70% of Diet and Exercise Videos Are Misleading
 
-[Culture_Society] already have 45 articles
+[Culture_Society] already have 48 articles
   candidates found: 6
-  → L7  Japan's School Costs Rise as Subsidies Not Enough
-  → L6  Rising Prices Have People in Japan Dining Out Less
-  → L6  Japanese Town Struggles with Violent Monkeys 
+  → L7  A 'Good Ear' Makes Language Learning Easier — Study
+  → L7  First 'Nature Listening Festival' Held in Finland
+  → L7  S. Korea, Japan Have Best Paternity Leave Pay — Study 
 
-[Travel_Experiences] already have 45 articles
+[Travel_Experiences] already have 48 articles
   candidates found: 6
-  → L6  Venice Tops List of World's Quietest Cities 
-  → L5  Many Americans Won't Travel Without Their Pets
-  → L7  Kyoto Temple Bans Visitors in Kimonos 
+  → L7  Record Number of People Injured by Nara Deer
+  → L8  Rome Cracks Down on Tourist Golf Carts
+  → L6  Sleep Like a Pokemon in Japan's Poke Ball Hotel
 
 ============================================================
 Finished. Added 15 articles. Success=True
