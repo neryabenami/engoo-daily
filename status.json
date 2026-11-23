@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-22 11:47:24 UTC",
+  "started": "2026-11-23 01:00:33 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 42,
+      "existing": 45,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Mister Donut Returns to China for First Time Since 2019",
+          "title": "Toys R Us Set to Leave Japan After 35 Years",
           "level": 6,
-          "file": "Mister_Donut_Returns_to_China_for_First_Time_Since_2019_level6.txt"
+          "file": "Toys_R_Us_Set_to_Leave_Japan_After_35_Years_level6.txt"
         },
         {
-          "title": "Japan Restaurants Let Diners Pay to Skip the Line",
-          "level": 6,
-          "file": "Japan_Restaurants_Let_Diners_Pay_to_Skip_the_Line_level6.txt"
-        },
-        {
-          "title": "67% of Americans Change Their Personality at Work",
+          "title": "Organic Food Prices Rising More than Other Food",
           "level": 7,
-          "file": "67%_of_Americans_Change_Their_Personality_at_Work_level7.txt"
+          "file": "Organic_Food_Prices_Rising_More_than_Other_Food_level7.txt"
+        },
+        {
+          "title": "EU Looks to Reduce Cheap Hybrid Cars from China",
+          "level": 6,
+          "file": "EU_Looks_to_Reduce_Cheap_Hybrid_Cars_from_China_level6.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 42,
+      "existing": 45,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Tokyo Court Protects Human Voices in AI Clone Case",
-          "level": 8,
-          "file": "Tokyo_Court_Protects_Human_Voices_in_AI_Clone_Case_level8.txt"
-        },
-        {
-          "title": "Scientists Create Bananas That Stay Yellow Longer",
+          "title": "Kyoto Bar Lets Disabled People Work via Robot",
           "level": 6,
-          "file": "Scientists_Create_Bananas_That_Stay_Yellow_Longer_level6.txt"
+          "file": "Kyoto_Bar_Lets_Disabled_People_Work_via_Robot_level6.txt"
         },
         {
-          "title": "Toyota Bets on Robots That Learn from People",
+          "title": "Japan Turns to Heat-Resistant Rice as Climate Warms",
+          "level": 7,
+          "file": "Japan_Turns_to_Heat-Resistant_Rice_as_Climate_Warms_level7.txt"
+        },
+        {
+          "title": "Trump and Tech Giants Agree to 'Self-Police' AI",
           "level": 8,
-          "file": "Toyota_Bets_on_Robots_That_Learn_from_People_level8.txt"
+          "file": "Trump_and_Tech_Giants_Agree_to_'Self-Police'_AI_level8.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 42,
+      "existing": 45,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Your Weekend Eating Schedule May Affect Your Heart",
+          "title": "Cranberry Juice May Fight Tooth Decay — Study",
+          "level": 8,
+          "file": "Cranberry_Juice_May_Fight_Tooth_Decay_—_Study_level8.txt"
+        },
+        {
+          "title": "1 in 4 South Korean High Schoolers Sleep Under 5 Hours",
+          "level": 5,
+          "file": "1_in_4_South_Korean_High_Schoolers_Sleep_Under_5_Hours_level5.txt"
+        },
+        {
+          "title": "Very Hot Drinks Could Increase Cancer Risk",
           "level": 6,
-          "file": "Your_Weekend_Eating_Schedule_May_Affect_Your_Heart_level6.txt"
-        },
-        {
-          "title": "Reading for Pleasure Improves Well-being",
-          "level": 7,
-          "file": "Reading_for_Pleasure_Improves_Well-being_level7.txt"
-        },
-        {
-          "title": "67% of Caregivers Feel Mentally Exhausted",
-          "level": 7,
-          "file": "67%_of_Caregivers_Feel_Mentally_Exhausted_level7.txt"
+          "file": "Very_Hot_Drinks_Could_Increase_Cancer_Risk_level6.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 42,
+      "existing": 45,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Purple Is the New Green: Is Ube the Next Matcha?",
+          "title": "Japan's School Costs Rise as Subsidies Not Enough",
           "level": 7,
-          "file": "Purple_Is_the_New_Green_Is_Ube_the_Next_Matcha_level7.txt"
+          "file": "Japan's_School_Costs_Rise_as_Subsidies_Not_Enough_level7.txt"
         },
         {
-          "title": "Japan's Newspaper Subscription Rate Falls Below 50%",
+          "title": "Rising Prices Have People in Japan Dining Out Less",
           "level": 6,
-          "file": "Japan's_Newspaper_Subscription_Rate_Falls_Below_50%_level6.txt"
+          "file": "Rising_Prices_Have_People_in_Japan_Dining_Out_Less_level6.txt"
         },
         {
-          "title": "Procrastination Tops Academic Struggles, Study Finds",
-          "level": 8,
-          "file": "Procrastination_Tops_Academic_Struggles,_Study_Finds_level8.txt"
+          "title": "Japanese Town Struggles with Violent Monkeys ",
+          "level": 6,
+          "file": "Japanese_Town_Struggles_with_Violent_Monkeys_level6.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 42,
+      "existing": 45,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "_Time Out_ Ranks the World's Best Cities for Cycling",
+          "title": "Venice Tops List of World's Quietest Cities ",
           "level": 6,
-          "file": "_Time_Out__Ranks_the_World's_Best_Cities_for_Cycling_level6.txt"
+          "file": "Venice_Tops_List_of_World's_Quietest_Cities_level6.txt"
         },
         {
-          "title": "What Are the World's Happiest Destinations?",
-          "level": 6,
-          "file": "What_Are_the_World's_Happiest_Destinations_level6.txt"
+          "title": "Many Americans Won't Travel Without Their Pets",
+          "level": 5,
+          "file": "Many_Americans_Won't_Travel_Without_Their_Pets_level5.txt"
         },
         {
-          "title": "The World's Most Rewarding Wildlife Travel Experiences",
+          "title": "Kyoto Temple Bans Visitors in Kimonos ",
           "level": 7,
-          "file": "The_World's_Most_Rewarding_Wildlife_Travel_Experiences_level7.txt"
+          "file": "Kyoto_Temple_Bans_Visitors_in_Kimonos_level7.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-22 11:47:37 UTC"
+  "finished": "2026-11-23 01:00:48 UTC"
 }

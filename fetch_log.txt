@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-22 11:47:24 UTC
+Engoo Daily fetch started – 2026-11-23 01:00:33 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 42 articles
+[Business_Politics] already have 45 articles
   candidates found: 6
-  → L6  Mister Donut Returns to China for First Time Since 2019
-  → L6  Japan Restaurants Let Diners Pay to Skip the Line
-  → L7  67% of Americans Change Their Personality at Work
+  → L6  Toys R Us Set to Leave Japan After 35 Years
+  → L7  Organic Food Prices Rising More than Other Food
+  → L6  EU Looks to Reduce Cheap Hybrid Cars from China
 
-[Science_Technology] already have 42 articles
+[Science_Technology] already have 45 articles
   candidates found: 6
-  → L8  Tokyo Court Protects Human Voices in AI Clone Case
-  → L6  Scientists Create Bananas That Stay Yellow Longer
-  → L8  Toyota Bets on Robots That Learn from People
+  → L6  Kyoto Bar Lets Disabled People Work via Robot
+  → L7  Japan Turns to Heat-Resistant Rice as Climate Warms
+  → L8  Trump and Tech Giants Agree to 'Self-Police' AI
 
-[Health_Lifestyle] already have 42 articles
+[Health_Lifestyle] already have 45 articles
   candidates found: 6
-  → L6  Your Weekend Eating Schedule May Affect Your Heart
-  → L7  Reading for Pleasure Improves Well-being
-  → L7  67% of Caregivers Feel Mentally Exhausted
+  → L8  Cranberry Juice May Fight Tooth Decay — Study
+  → L5  1 in 4 South Korean High Schoolers Sleep Under 5 Hours
+  → L6  Very Hot Drinks Could Increase Cancer Risk
 
-[Culture_Society] already have 42 articles
+[Culture_Society] already have 45 articles
   candidates found: 6
-  → L7  Purple Is the New Green: Is Ube the Next Matcha?
-  → L6  Japan's Newspaper Subscription Rate Falls Below 50%
-  → L8  Procrastination Tops Academic Struggles, Study Finds
+  → L7  Japan's School Costs Rise as Subsidies Not Enough
+  → L6  Rising Prices Have People in Japan Dining Out Less
+  → L6  Japanese Town Struggles with Violent Monkeys 
 
-[Travel_Experiences] already have 42 articles
+[Travel_Experiences] already have 45 articles
   candidates found: 6
-  → L6  _Time Out_ Ranks the World's Best Cities for Cycling
-  → L6  What Are the World's Happiest Destinations?
-  → L7  The World's Most Rewarding Wildlife Travel Experiences
+  → L6  Venice Tops List of World's Quietest Cities 
+  → L5  Many Americans Won't Travel Without Their Pets
+  → L7  Kyoto Temple Bans Visitors in Kimonos 
 
 ============================================================
 Finished. Added 15 articles. Success=True

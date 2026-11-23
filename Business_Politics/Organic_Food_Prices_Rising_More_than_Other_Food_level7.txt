@@ -1,0 +1,34 @@
+Title: Organic Food Prices Rising More than Other Food
+Level: 7
+Date: 2026-10-03
+Fetched: 2026-11-23 01:00:36 UTC
+
+============================================================
+VOCABULARY
+----------------------------------------
+( 6 vocabulary items in the original lesson )
+
+
+ARTICLE
+----------------------------------------
+Some people try to make sure all the food they buy is organic. For meat, this means it was raised without antibiotics or growth hormones; for fruit and vegetables, it means they were grown without synthetic pesticides or fertilizers.
+
+People who love organic food believe it's healthier and has more nutrients than non-organic food.
+
+But organic food also costs more money — and that cost is going up.
+
+The American loan company LendingTree looked at 52 grocery items and found that, on average, as of January 31 this year, organic fruit and vegetables in the US cost 59% more than their non-organic counterparts.
+
+And some organic foods cost twice as much or more. For example, organic Roma tomatoes cost {{prn:$6.24|six dollars and twenty four cents}} per kilogram, compared with {{prn:$2.67|two dollars and sixty seven cents}} for regular ones. Organic orange and yellow peppers are also more than twice as expensive as non-organic peppers.
+
+And that price gap is growing.
+
+Because while the price difference between organic and non-organic fruit and vegetables was 59% in January 2026, in January 2025, the gap was just 53%. Over that year, organic prices rose by 10%, while non-organic food prices went up by just {{prn:0.3%|zero point three percent}}.
+
+And yet, even with those higher prices, demand for organic food remains strong. According to Organic Produce Network, an online platform for the organic food industry, US organic food sales reached {{prn:$10.6 billion|10 point six billion dollars}} in 2025, 6% more than the year before.
+
+However, that doesn't mean price isn't important.
+
+LendingTree's Matt Schulz says the growing price gap may lead people who now regularly buy organic food to see it as a luxury rather than something they can afford to buy regularly. And instead of buying everything organic, they may limit themselves to just a few organic products.
+
+So as grocery prices go up, organic products may be the first ones to be cut from people's shopping lists.

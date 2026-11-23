@@ -1,0 +1,28 @@
+Title: Japan's School Costs Rise as Subsidies Not Enough
+Level: 7
+Date: 2026-11-22
+Fetched: 2026-11-23 01:00:44 UTC
+
+============================================================
+VOCABULARY
+----------------------------------------
+( 6 vocabulary items in the original lesson )
+
+
+ARTICLE
+----------------------------------------
+In Japan, third-year junior high school students take extremely competitive exams to get into their chosen public or private high school. And about one-third of high school students go to a private high school, which can actually be easier to get into than a public school — but more expensive.
+
+This year, Japan introduced a subsidy system covering most tuition costs for private high schools, offering up to about {{prn:460,000|four hundred and sixty thousand}} yen, or around {{prn:$2,900|two thousand and nine hundred dollars}}, per student.
+
+But while this made it easier for poorer families to access private schools, there are still a number of fees they wouldn't pay at public schools — and those fees are going up.
+
+For example, in addition to tuition, private schools charge facility fees for things like heating, cooling and building maintenance. And private high school facility fees this year were double those of 2025, rising from an average of {{prn:73,000|seventy three thousand}} yen — about {{prn:$460|four hundred and sixty dollars}} — to {{prn:147,000|one hundred and forty seven thousand}} yen, or about {{prn:$930|nine hundred and thirty dollars}}.
+
+That's based on a survey by nongovernmental organization Save the Children Japan. In May and June, it surveyed {{prn:125|one hundred and twenty five}} first-year junior and senior high school students and {{prn:425|four hundred and twenty five}} parents from financially struggling families across the country.
+
+It also found that enrollment fees — which are separate from tuition fees, and not covered by the government subsidy — have gone up by nearly 20% to around {{prn:173,000|one hundred and seventy three thousand}} yen, or about {{prn:$1,100|one thousand and one hundred dollars}}.
+
+The average cost of computers and tablets has also gone up by almost 10%. And while 55% of public schools offer financial support to buy these devices, only 7% of private schools do.
+
+Half of the parents with children in private schools said they were worried that their children might have to leave their school because of increasing costs.
