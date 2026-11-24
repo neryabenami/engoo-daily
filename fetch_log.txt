@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-24 01:00:34 UTC
+Engoo Daily fetch started – 2026-11-24 14:06:13 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 51 articles
+[Business_Politics] already have 54 articles
   candidates found: 6
-  → L6  Sit-Stand Desks Improve Productivity, Study Finds
-  → L6  More Workers Are Using AI — But Many Don't Know Why
-  → L8  Thais Buy Twice Global Average of Health Food and Drink
+  → L6  75% of Employees Lose Focus During Online Meetings
+  → L8  McDonald's Plans $8.5 Billion Restaurant Overhaul
+  → L5  Most Foreign Workers Want to Stay in Japan
 
-[Science_Technology] already have 51 articles
+[Science_Technology] already have 54 articles
   candidates found: 6
-  → L7  88% of Young Americans Admit to Doomscrolling
-  → L7  VR Project Brings Hope to Kids in Japan Hospitals
-  → L6  86% of Japan's Game Developers Use AI
+  → L8  Earth Lost 11 Trillion Tons of Ice in 47 Years
+  → L7  T. Rex Body Temperature Was Similar to Our Own
+  → L6  teamLab to Open Biggest Museum Yet in Tokyo
 
-[Health_Lifestyle] already have 51 articles
+[Health_Lifestyle] already have 54 articles
   candidates found: 6
-  → L8  More Time in Light Could Reduce Dementia Risk
-  → L7  Study Finds Greatest Predictors of Good Reading Skills  
-  → L7  Eating _Natto_ Linked to Better Brain Health
+  → L6  Too Much Coffee May Be Bad for Your Bones
+  → L7  Japan's _Tatami_ Mats Could Help Mood and Focus
+  → L4  Average American Rates Their Home 7.5 Out of 10
 
-[Culture_Society] already have 51 articles
+[Culture_Society] already have 54 articles
   candidates found: 6
-  → L4  Sushi Named the Top Japanese Food to Share Overseas
-  → L6  54% of Americans Use AI for Gift Ideas
-  → L6  Older Americans Feel Guilty Spending Savings
+  → L6  Japanese City Accused of Adding 2,000 Fake Residents
+  → L6  Beer Made from Leftover Rice Proves Popular in Japan
+  → L6  Record Few Americans Say College Is Very Important 
 
-[Travel_Experiences] already have 51 articles
+[Travel_Experiences] already have 54 articles
   candidates found: 6
-  → L4  Japanese Tourists Are the Most Polite — Survey
-  → L5  Americans Put Food First on Vacation
-  → L7  Farm Stay Holidays Booming in the UK
+  → L6  Nonstop US-Okinawa Flights to Start in 2027
+  → L6  Japan's Latest Tourism Trend: Getting Better Sleep
+  → L6  Gen Z and Millennials Choose Different Travel Spots
 
 ============================================================
 Finished. Added 15 articles. Success=True
