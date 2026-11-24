@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-23 13:28:11 UTC",
+  "started": "2026-11-24 01:00:34 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 48,
+      "existing": 51,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Half of Australians Feel Overqualified for Their Jobs",
+          "title": "Sit-Stand Desks Improve Productivity, Study Finds",
           "level": 6,
-          "file": "Half_of_Australians_Feel_Overqualified_for_Their_Jobs_level6.txt"
+          "file": "Sit-Stand_Desks_Improve_Productivity,_Study_Finds_level6.txt"
         },
         {
-          "title": "Over Half of Gen Z Plan to Job Hunt in 2026",
+          "title": "More Workers Are Using AI — But Many Don't Know Why",
           "level": 6,
-          "file": "Over_Half_of_Gen_Z_Plan_to_Job_Hunt_in_2026_level6.txt"
+          "file": "More_Workers_Are_Using_AI_—_But_Many_Don't_Know_Why_level6.txt"
         },
         {
-          "title": "Starbucks to Close 250 Stores in North America",
+          "title": "Thais Buy Twice Global Average of Health Food and Drink",
           "level": 8,
-          "file": "Starbucks_to_Close_250_Stores_in_North_America_level8.txt"
+          "file": "Thais_Buy_Twice_Global_Average_of_Health_Food_and_Drink_level8.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 48,
+      "existing": 51,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Starship Reaches Orbit for First Time, but Returns Early",
-          "level": 8,
-          "file": "Starship_Reaches_Orbit_for_First_Time,_but_Returns_Early_level8.txt"
-        },
-        {
-          "title": "Japanese 11-Year-Old Wins Esports Gold Medal",
+          "title": "88% of Young Americans Admit to Doomscrolling",
           "level": 7,
-          "file": "Japanese_11-Year-Old_Wins_Esports_Gold_Medal_level7.txt"
+          "file": "88%_of_Young_Americans_Admit_to_Doomscrolling_level7.txt"
         },
         {
-          "title": "How Can You Spot Fake News? Talk to Others!",
+          "title": "VR Project Brings Hope to Kids in Japan Hospitals",
+          "level": 7,
+          "file": "VR_Project_Brings_Hope_to_Kids_in_Japan_Hospitals_level7.txt"
+        },
+        {
+          "title": "86% of Japan's Game Developers Use AI",
           "level": 6,
-          "file": "How_Can_You_Spot_Fake_News_Talk_to_Others!_level6.txt"
+          "file": "86%_of_Japan's_Game_Developers_Use_AI_level6.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 48,
+      "existing": 51,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "More than 100,000 People in Japan Are 100 or Older",
-          "level": 5,
-          "file": "More_than_100,000_People_in_Japan_Are_100_or_Older_level5.txt"
-        },
-        {
-          "title": "Sleep Trackers May Make You Feel More Tired",
+          "title": "More Time in Light Could Reduce Dementia Risk",
           "level": 8,
-          "file": "Sleep_Trackers_May_Make_You_Feel_More_Tired_level8.txt"
+          "file": "More_Time_in_Light_Could_Reduce_Dementia_Risk_level8.txt"
         },
         {
-          "title": "Nearly 70% of Diet and Exercise Videos Are Misleading",
-          "level": 6,
-          "file": "Nearly_70%_of_Diet_and_Exercise_Videos_Are_Misleading_level6.txt"
+          "title": "Study Finds Greatest Predictors of Good Reading Skills  ",
+          "level": 7,
+          "file": "Study_Finds_Greatest_Predictors_of_Good_Reading_Skills_level7.txt"
+        },
+        {
+          "title": "Eating _Natto_ Linked to Better Brain Health",
+          "level": 7,
+          "file": "Eating__Natto__Linked_to_Better_Brain_Health_level7.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 48,
+      "existing": 51,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "A 'Good Ear' Makes Language Learning Easier — Study",
-          "level": 7,
-          "file": "A_'Good_Ear'_Makes_Language_Learning_Easier_—_Study_level7.txt"
+          "title": "Sushi Named the Top Japanese Food to Share Overseas",
+          "level": 4,
+          "file": "Sushi_Named_the_Top_Japanese_Food_to_Share_Overseas_level4.txt"
         },
         {
-          "title": "First 'Nature Listening Festival' Held in Finland",
-          "level": 7,
-          "file": "First_'Nature_Listening_Festival'_Held_in_Finland_level7.txt"
+          "title": "54% of Americans Use AI for Gift Ideas",
+          "level": 6,
+          "file": "54%_of_Americans_Use_AI_for_Gift_Ideas_level6.txt"
         },
         {
-          "title": "S. Korea, Japan Have Best Paternity Leave Pay — Study ",
-          "level": 7,
-          "file": "S._Korea,_Japan_Have_Best_Paternity_Leave_Pay_—_Study_level7.txt"
+          "title": "Older Americans Feel Guilty Spending Savings",
+          "level": 6,
+          "file": "Older_Americans_Feel_Guilty_Spending_Savings_level6.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 48,
+      "existing": 51,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Record Number of People Injured by Nara Deer",
+          "title": "Japanese Tourists Are the Most Polite — Survey",
+          "level": 4,
+          "file": "Japanese_Tourists_Are_the_Most_Polite_—_Survey_level4.txt"
+        },
+        {
+          "title": "Americans Put Food First on Vacation",
+          "level": 5,
+          "file": "Americans_Put_Food_First_on_Vacation_level5.txt"
+        },
+        {
+          "title": "Farm Stay Holidays Booming in the UK",
           "level": 7,
-          "file": "Record_Number_of_People_Injured_by_Nara_Deer_level7.txt"
-        },
-        {
-          "title": "Rome Cracks Down on Tourist Golf Carts",
-          "level": 8,
-          "file": "Rome_Cracks_Down_on_Tourist_Golf_Carts_level8.txt"
-        },
-        {
-          "title": "Sleep Like a Pokemon in Japan's Poke Ball Hotel",
-          "level": 6,
-          "file": "Sleep_Like_a_Pokemon_in_Japan's_Poke_Ball_Hotel_level6.txt"
+          "file": "Farm_Stay_Holidays_Booming_in_the_UK_level7.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-23 13:28:26 UTC"
+  "finished": "2026-11-24 01:00:48 UTC"
 }

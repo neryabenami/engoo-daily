@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-23 13:28:11 UTC
+Engoo Daily fetch started – 2026-11-24 01:00:34 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 48 articles
+[Business_Politics] already have 51 articles
   candidates found: 6
-  → L6  Half of Australians Feel Overqualified for Their Jobs
-  → L6  Over Half of Gen Z Plan to Job Hunt in 2026
-  → L8  Starbucks to Close 250 Stores in North America
+  → L6  Sit-Stand Desks Improve Productivity, Study Finds
+  → L6  More Workers Are Using AI — But Many Don't Know Why
+  → L8  Thais Buy Twice Global Average of Health Food and Drink
 
-[Science_Technology] already have 48 articles
+[Science_Technology] already have 51 articles
   candidates found: 6
-  → L8  Starship Reaches Orbit for First Time, but Returns Early
-  → L7  Japanese 11-Year-Old Wins Esports Gold Medal
-  → L6  How Can You Spot Fake News? Talk to Others!
+  → L7  88% of Young Americans Admit to Doomscrolling
+  → L7  VR Project Brings Hope to Kids in Japan Hospitals
+  → L6  86% of Japan's Game Developers Use AI
 
-[Health_Lifestyle] already have 48 articles
+[Health_Lifestyle] already have 51 articles
   candidates found: 6
-  → L5  More than 100,000 People in Japan Are 100 or Older
-  → L8  Sleep Trackers May Make You Feel More Tired
-  → L6  Nearly 70% of Diet and Exercise Videos Are Misleading
+  → L8  More Time in Light Could Reduce Dementia Risk
+  → L7  Study Finds Greatest Predictors of Good Reading Skills  
+  → L7  Eating _Natto_ Linked to Better Brain Health
 
-[Culture_Society] already have 48 articles
+[Culture_Society] already have 51 articles
   candidates found: 6
-  → L7  A 'Good Ear' Makes Language Learning Easier — Study
-  → L7  First 'Nature Listening Festival' Held in Finland
-  → L7  S. Korea, Japan Have Best Paternity Leave Pay — Study 
+  → L4  Sushi Named the Top Japanese Food to Share Overseas
+  → L6  54% of Americans Use AI for Gift Ideas
+  → L6  Older Americans Feel Guilty Spending Savings
 
-[Travel_Experiences] already have 48 articles
+[Travel_Experiences] already have 51 articles
   candidates found: 6
-  → L7  Record Number of People Injured by Nara Deer
-  → L8  Rome Cracks Down on Tourist Golf Carts
-  → L6  Sleep Like a Pokemon in Japan's Poke Ball Hotel
+  → L4  Japanese Tourists Are the Most Polite — Survey
+  → L5  Americans Put Food First on Vacation
+  → L7  Farm Stay Holidays Booming in the UK
 
 ============================================================
 Finished. Added 15 articles. Success=True
