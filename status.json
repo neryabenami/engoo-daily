@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-25 01:00:31 UTC",
+  "started": "2026-11-25 13:19:20 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 57,
+      "existing": 60,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Jensen Huang Reinstated as Nvidia CEO",
-          "level": 9,
-          "file": "Jensen_Huang_Reinstated_as_Nvidia_CEO_level9.txt"
+          "title": "Remote Workers Lose 58 Minutes of Movement a Day",
+          "level": 5,
+          "file": "Remote_Workers_Lose_58_Minutes_of_Movement_a_Day_level5.txt"
         },
         {
-          "title": "Women Hold Just 11% of Management Jobs in Japan",
+          "title": "Japan's Convenience Stores Launch AI-Designed Sweets ",
+          "level": 7,
+          "file": "Japan's_Convenience_Stores_Launch_AI-Designed_Sweets_level7.txt"
+        },
+        {
+          "title": "More Japanese Seniors Are Starting Businesses",
           "level": 6,
-          "file": "Women_Hold_Just_11%_of_Management_Jobs_in_Japan_level6.txt"
-        },
-        {
-          "title": "Tax the Super-Rich to Save Lives, Says Report",
-          "level": 8,
-          "file": "Tax_the_Super-Rich_to_Save_Lives,_Says_Report_level8.txt"
+          "file": "More_Japanese_Seniors_Are_Starting_Businesses_level6.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 57,
+      "existing": 60,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Driverless Taxi Service Planned for Tokyo in 2027",
+          "title": "AI-Generated Menu Pictures Scare Customers Away",
           "level": 7,
-          "file": "Driverless_Taxi_Service_Planned_for_Tokyo_in_2027_level7.txt"
+          "file": "AI-Generated_Menu_Pictures_Scare_Customers_Away_level7.txt"
         },
         {
-          "title": "Tokyo's Shinjuku Station Tests Trash Can Robots",
+          "title": "53% of Americans Spend Too Much Time on Phones",
           "level": 6,
-          "file": "Tokyo's_Shinjuku_Station_Tests_Trash_Can_Robots_level6.txt"
+          "file": "53%_of_Americans_Spend_Too_Much_Time_on_Phones_level6.txt"
         },
         {
-          "title": "Only 1 in 4 Japanese Adults Trust Social Media",
+          "title": "Mobile Gaming May Hurt Your Neck and Elbows",
           "level": 7,
-          "file": "Only_1_in_4_Japanese_Adults_Trust_Social_Media_level7.txt"
+          "file": "Mobile_Gaming_May_Hurt_Your_Neck_and_Elbows_level7.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 57,
+      "existing": 60,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Study Shows Where in Lungs Vapes' Toxic Metals Go",
+          "title": "We Trust Fake Doctor Reviews More than Real Ones",
           "level": 8,
-          "file": "Study_Shows_Where_in_Lungs_Vapes'_Toxic_Metals_Go_level8.txt"
+          "file": "We_Trust_Fake_Doctor_Reviews_More_than_Real_Ones_level8.txt"
         },
         {
-          "title": "Japan's Everyday Foods Get a Protein Boost",
+          "title": "Three Key Decorating Tips for Renters",
           "level": 6,
-          "file": "Japan's_Everyday_Foods_Get_a_Protein_Boost_level6.txt"
+          "file": "Three_Key_Decorating_Tips_for_Renters_level6.txt"
         },
         {
-          "title": "Smoking Linked with Increased Loneliness",
-          "level": 7,
-          "file": "Smoking_Linked_with_Increased_Loneliness_level7.txt"
+          "title": "US Kids Don't Get the Right Nutrition at Breakfast",
+          "level": 6,
+          "file": "US_Kids_Don't_Get_the_Right_Nutrition_at_Breakfast_level6.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 57,
+      "existing": 60,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Okinawa Celebrates Restoration of Shuri Castle",
-          "level": 8,
-          "file": "Okinawa_Celebrates_Restoration_of_Shuri_Castle_level8.txt"
+          "title": "Cramming for Exams? Experts Share Better Ways to Learn",
+          "level": 7,
+          "file": "Cramming_for_Exams_Experts_Share_Better_Ways_to_Learn_level7.txt"
         },
         {
-          "title": "Japan Plans to Make It Easier to Become a Teacher",
+          "title": "More US Households Now Have Kittens than Puppies",
           "level": 6,
-          "file": "Japan_Plans_to_Make_It_Easier_to_Become_a_Teacher_level6.txt"
+          "file": "More_US_Households_Now_Have_Kittens_than_Puppies_level6.txt"
         },
         {
-          "title": "One Quarter of Americans Embarrassed by Coffee Order",
-          "level": 6,
-          "file": "One_Quarter_of_Americans_Embarrassed_by_Coffee_Order_level6.txt"
+          "title": "_Ekiden_ Becoming More Popular in UK",
+          "level": 7,
+          "file": "_Ekiden__Becoming_More_Popular_in_UK_level7.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 57,
+      "existing": 60,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "_TimeOut_ Names the World's 28 'Coolest' Streets",
-          "level": 6,
-          "file": "_TimeOut__Names_the_World's_28_'Coolest'_Streets_level6.txt"
+          "title": "Cost, Visas Shape Students' Study-Abroad Choices ",
+          "level": 7,
+          "file": "Cost,_Visas_Shape_Students'_Study-Abroad_Choices_level7.txt"
         },
         {
-          "title": "Tokyo's Sushi Bus Combines Food and Sightseeing",
-          "level": 5,
-          "file": "Tokyo's_Sushi_Bus_Combines_Food_and_Sightseeing_level5.txt"
+          "title": "Jumbo Jets Find New Life as Hotel Suites",
+          "level": 6,
+          "file": "Jumbo_Jets_Find_New_Life_as_Hotel_Suites_level6.txt"
         },
         {
-          "title": "A _Dragon Ball_ Theme Park Is Coming to Paris",
+          "title": "Overpacking Is Travelers' Biggest Mistake",
           "level": 6,
-          "file": "A__Dragon_Ball__Theme_Park_Is_Coming_to_Paris_level6.txt"
+          "file": "Overpacking_Is_Travelers'_Biggest_Mistake_level6.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-25 01:00:45 UTC"
+  "finished": "2026-11-25 13:19:38 UTC"
 }

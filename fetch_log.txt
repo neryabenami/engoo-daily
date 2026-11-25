@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-25 01:00:31 UTC
+Engoo Daily fetch started – 2026-11-25 13:19:20 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 57 articles
-  candidates found: 3
-  → L9  Jensen Huang Reinstated as Nvidia CEO
-  → L6  Women Hold Just 11% of Management Jobs in Japan
-  → L8  Tax the Super-Rich to Save Lives, Says Report
+[Business_Politics] already have 60 articles
+  candidates found: 6
+  → L5  Remote Workers Lose 58 Minutes of Movement a Day
+  → L7  Japan's Convenience Stores Launch AI-Designed Sweets 
+  → L6  More Japanese Seniors Are Starting Businesses
 
-[Science_Technology] already have 57 articles
-  candidates found: 3
-  → L7  Driverless Taxi Service Planned for Tokyo in 2027
-  → L6  Tokyo's Shinjuku Station Tests Trash Can Robots
-  → L7  Only 1 in 4 Japanese Adults Trust Social Media
+[Science_Technology] already have 60 articles
+  candidates found: 6
+  → L7  AI-Generated Menu Pictures Scare Customers Away
+  → L6  53% of Americans Spend Too Much Time on Phones
+  → L7  Mobile Gaming May Hurt Your Neck and Elbows
 
-[Health_Lifestyle] already have 57 articles
-  candidates found: 3
-  → L8  Study Shows Where in Lungs Vapes' Toxic Metals Go
-  → L6  Japan's Everyday Foods Get a Protein Boost
-  → L7  Smoking Linked with Increased Loneliness
+[Health_Lifestyle] already have 60 articles
+  candidates found: 6
+  → L8  We Trust Fake Doctor Reviews More than Real Ones
+  → L6  Three Key Decorating Tips for Renters
+  → L6  US Kids Don't Get the Right Nutrition at Breakfast
 
-[Culture_Society] already have 57 articles
-  candidates found: 4
-  → L8  Okinawa Celebrates Restoration of Shuri Castle
-  → L6  Japan Plans to Make It Easier to Become a Teacher
-  → L6  One Quarter of Americans Embarrassed by Coffee Order
+[Culture_Society] already have 60 articles
+  candidates found: 6
+  → L7  Cramming for Exams? Experts Share Better Ways to Learn
+  → L6  More US Households Now Have Kittens than Puppies
+  → L7  _Ekiden_ Becoming More Popular in UK
 
-[Travel_Experiences] already have 57 articles
-  candidates found: 3
-  → L6  _TimeOut_ Names the World's 28 'Coolest' Streets
-  → L5  Tokyo's Sushi Bus Combines Food and Sightseeing
-  → L6  A _Dragon Ball_ Theme Park Is Coming to Paris
+[Travel_Experiences] already have 60 articles
+  candidates found: 6
+  → L7  Cost, Visas Shape Students' Study-Abroad Choices 
+  → L6  Jumbo Jets Find New Life as Hotel Suites
+  → L6  Overpacking Is Travelers' Biggest Mistake
 
 ============================================================
 Finished. Added 15 articles. Success=True
