@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-24 14:06:13 UTC",
+  "started": "2026-11-25 01:00:31 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 54,
+      "existing": 57,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "75% of Employees Lose Focus During Online Meetings",
+          "title": "Jensen Huang Reinstated as Nvidia CEO",
+          "level": 9,
+          "file": "Jensen_Huang_Reinstated_as_Nvidia_CEO_level9.txt"
+        },
+        {
+          "title": "Women Hold Just 11% of Management Jobs in Japan",
           "level": 6,
-          "file": "75%_of_Employees_Lose_Focus_During_Online_Meetings_level6.txt"
+          "file": "Women_Hold_Just_11%_of_Management_Jobs_in_Japan_level6.txt"
         },
         {
-          "title": "McDonald's Plans $8.5 Billion Restaurant Overhaul",
+          "title": "Tax the Super-Rich to Save Lives, Says Report",
           "level": 8,
-          "file": "McDonald's_Plans_$8.5_Billion_Restaurant_Overhaul_level8.txt"
-        },
-        {
-          "title": "Most Foreign Workers Want to Stay in Japan",
-          "level": 5,
-          "file": "Most_Foreign_Workers_Want_to_Stay_in_Japan_level5.txt"
+          "file": "Tax_the_Super-Rich_to_Save_Lives,_Says_Report_level8.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 54,
+      "existing": 57,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Earth Lost 11 Trillion Tons of Ice in 47 Years",
-          "level": 8,
-          "file": "Earth_Lost_11_Trillion_Tons_of_Ice_in_47_Years_level8.txt"
-        },
-        {
-          "title": "T. Rex Body Temperature Was Similar to Our Own",
+          "title": "Driverless Taxi Service Planned for Tokyo in 2027",
           "level": 7,
-          "file": "T._Rex_Body_Temperature_Was_Similar_to_Our_Own_level7.txt"
+          "file": "Driverless_Taxi_Service_Planned_for_Tokyo_in_2027_level7.txt"
         },
         {
-          "title": "teamLab to Open Biggest Museum Yet in Tokyo",
+          "title": "Tokyo's Shinjuku Station Tests Trash Can Robots",
           "level": 6,
-          "file": "teamLab_to_Open_Biggest_Museum_Yet_in_Tokyo_level6.txt"
+          "file": "Tokyo's_Shinjuku_Station_Tests_Trash_Can_Robots_level6.txt"
+        },
+        {
+          "title": "Only 1 in 4 Japanese Adults Trust Social Media",
+          "level": 7,
+          "file": "Only_1_in_4_Japanese_Adults_Trust_Social_Media_level7.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 54,
+      "existing": 57,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Too Much Coffee May Be Bad for Your Bones",
+          "title": "Study Shows Where in Lungs Vapes' Toxic Metals Go",
+          "level": 8,
+          "file": "Study_Shows_Where_in_Lungs_Vapes'_Toxic_Metals_Go_level8.txt"
+        },
+        {
+          "title": "Japan's Everyday Foods Get a Protein Boost",
           "level": 6,
-          "file": "Too_Much_Coffee_May_Be_Bad_for_Your_Bones_level6.txt"
+          "file": "Japan's_Everyday_Foods_Get_a_Protein_Boost_level6.txt"
         },
         {
-          "title": "Japan's _Tatami_ Mats Could Help Mood and Focus",
+          "title": "Smoking Linked with Increased Loneliness",
           "level": 7,
-          "file": "Japan's__Tatami__Mats_Could_Help_Mood_and_Focus_level7.txt"
-        },
-        {
-          "title": "Average American Rates Their Home 7.5 Out of 10",
-          "level": 4,
-          "file": "Average_American_Rates_Their_Home_7.5_Out_of_10_level4.txt"
+          "file": "Smoking_Linked_with_Increased_Loneliness_level7.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 54,
+      "existing": 57,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Japanese City Accused of Adding 2,000 Fake Residents",
-          "level": 6,
-          "file": "Japanese_City_Accused_of_Adding_2,000_Fake_Residents_level6.txt"
+          "title": "Okinawa Celebrates Restoration of Shuri Castle",
+          "level": 8,
+          "file": "Okinawa_Celebrates_Restoration_of_Shuri_Castle_level8.txt"
         },
         {
-          "title": "Beer Made from Leftover Rice Proves Popular in Japan",
+          "title": "Japan Plans to Make It Easier to Become a Teacher",
           "level": 6,
-          "file": "Beer_Made_from_Leftover_Rice_Proves_Popular_in_Japan_level6.txt"
+          "file": "Japan_Plans_to_Make_It_Easier_to_Become_a_Teacher_level6.txt"
         },
         {
-          "title": "Record Few Americans Say College Is Very Important ",
+          "title": "One Quarter of Americans Embarrassed by Coffee Order",
           "level": 6,
-          "file": "Record_Few_Americans_Say_College_Is_Very_Important_level6.txt"
+          "file": "One_Quarter_of_Americans_Embarrassed_by_Coffee_Order_level6.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 54,
+      "existing": 57,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Nonstop US-Okinawa Flights to Start in 2027",
+          "title": "_TimeOut_ Names the World's 28 'Coolest' Streets",
           "level": 6,
-          "file": "Nonstop_US-Okinawa_Flights_to_Start_in_2027_level6.txt"
+          "file": "_TimeOut__Names_the_World's_28_'Coolest'_Streets_level6.txt"
         },
         {
-          "title": "Japan's Latest Tourism Trend: Getting Better Sleep",
-          "level": 6,
-          "file": "Japan's_Latest_Tourism_Trend_Getting_Better_Sleep_level6.txt"
+          "title": "Tokyo's Sushi Bus Combines Food and Sightseeing",
+          "level": 5,
+          "file": "Tokyo's_Sushi_Bus_Combines_Food_and_Sightseeing_level5.txt"
         },
         {
-          "title": "Gen Z and Millennials Choose Different Travel Spots",
+          "title": "A _Dragon Ball_ Theme Park Is Coming to Paris",
           "level": 6,
-          "file": "Gen_Z_and_Millennials_Choose_Different_Travel_Spots_level6.txt"
+          "file": "A__Dragon_Ball__Theme_Park_Is_Coming_to_Paris_level6.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-24 14:06:27 UTC"
+  "finished": "2026-11-25 01:00:45 UTC"
 }

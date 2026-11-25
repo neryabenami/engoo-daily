@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-24 14:06:13 UTC
+Engoo Daily fetch started – 2026-11-25 01:00:31 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 54 articles
-  candidates found: 6
-  → L6  75% of Employees Lose Focus During Online Meetings
-  → L8  McDonald's Plans $8.5 Billion Restaurant Overhaul
-  → L5  Most Foreign Workers Want to Stay in Japan
+[Business_Politics] already have 57 articles
+  candidates found: 3
+  → L9  Jensen Huang Reinstated as Nvidia CEO
+  → L6  Women Hold Just 11% of Management Jobs in Japan
+  → L8  Tax the Super-Rich to Save Lives, Says Report
 
-[Science_Technology] already have 54 articles
-  candidates found: 6
-  → L8  Earth Lost 11 Trillion Tons of Ice in 47 Years
-  → L7  T. Rex Body Temperature Was Similar to Our Own
-  → L6  teamLab to Open Biggest Museum Yet in Tokyo
+[Science_Technology] already have 57 articles
+  candidates found: 3
+  → L7  Driverless Taxi Service Planned for Tokyo in 2027
+  → L6  Tokyo's Shinjuku Station Tests Trash Can Robots
+  → L7  Only 1 in 4 Japanese Adults Trust Social Media
 
-[Health_Lifestyle] already have 54 articles
-  candidates found: 6
-  → L6  Too Much Coffee May Be Bad for Your Bones
-  → L7  Japan's _Tatami_ Mats Could Help Mood and Focus
-  → L4  Average American Rates Their Home 7.5 Out of 10
+[Health_Lifestyle] already have 57 articles
+  candidates found: 3
+  → L8  Study Shows Where in Lungs Vapes' Toxic Metals Go
+  → L6  Japan's Everyday Foods Get a Protein Boost
+  → L7  Smoking Linked with Increased Loneliness
 
-[Culture_Society] already have 54 articles
-  candidates found: 6
-  → L6  Japanese City Accused of Adding 2,000 Fake Residents
-  → L6  Beer Made from Leftover Rice Proves Popular in Japan
-  → L6  Record Few Americans Say College Is Very Important 
+[Culture_Society] already have 57 articles
+  candidates found: 4
+  → L8  Okinawa Celebrates Restoration of Shuri Castle
+  → L6  Japan Plans to Make It Easier to Become a Teacher
+  → L6  One Quarter of Americans Embarrassed by Coffee Order
 
-[Travel_Experiences] already have 54 articles
-  candidates found: 6
-  → L6  Nonstop US-Okinawa Flights to Start in 2027
-  → L6  Japan's Latest Tourism Trend: Getting Better Sleep
-  → L6  Gen Z and Millennials Choose Different Travel Spots
+[Travel_Experiences] already have 57 articles
+  candidates found: 3
+  → L6  _TimeOut_ Names the World's 28 'Coolest' Streets
+  → L5  Tokyo's Sushi Bus Combines Food and Sightseeing
+  → L6  A _Dragon Ball_ Theme Park Is Coming to Paris
 
 ============================================================
 Finished. Added 15 articles. Success=True
