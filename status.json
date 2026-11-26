@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-25 13:19:20 UTC",
+  "started": "2026-11-26 01:00:35 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 60,
+      "existing": 63,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Remote Workers Lose 58 Minutes of Movement a Day",
-          "level": 5,
-          "file": "Remote_Workers_Lose_58_Minutes_of_Movement_a_Day_level5.txt"
-        },
-        {
-          "title": "Japan's Convenience Stores Launch AI-Designed Sweets ",
-          "level": 7,
-          "file": "Japan's_Convenience_Stores_Launch_AI-Designed_Sweets_level7.txt"
-        },
-        {
-          "title": "More Japanese Seniors Are Starting Businesses",
+          "title": "Japan Comes Last in Global Workplace Happiness",
           "level": 6,
-          "file": "More_Japanese_Seniors_Are_Starting_Businesses_level6.txt"
+          "file": "Japan_Comes_Last_in_Global_Workplace_Happiness_level6.txt"
+        },
+        {
+          "title": "South Korea to Survey Young K-Pop Stars on Rights",
+          "level": 8,
+          "file": "South_Korea_to_Survey_Young_K-Pop_Stars_on_Rights_level8.txt"
+        },
+        {
+          "title": "Canada-US Trade Dispute Boosts Maple Syrup Sales",
+          "level": 6,
+          "file": "Canada-US_Trade_Dispute_Boosts_Maple_Syrup_Sales_level6.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 60,
+      "existing": 63,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "AI-Generated Menu Pictures Scare Customers Away",
-          "level": 7,
-          "file": "AI-Generated_Menu_Pictures_Scare_Customers_Away_level7.txt"
+          "title": "Osaka Metro Tests AI Robot Station Worker",
+          "level": 5,
+          "file": "Osaka_Metro_Tests_AI_Robot_Station_Worker_level5.txt"
         },
         {
-          "title": "53% of Americans Spend Too Much Time on Phones",
-          "level": 6,
-          "file": "53%_of_Americans_Spend_Too_Much_Time_on_Phones_level6.txt"
+          "title": "Apple's New iPhone Lineup Includes First Foldable Model",
+          "level": 7,
+          "file": "Apple's_New_iPhone_Lineup_Includes_First_Foldable_Model_level7.txt"
         },
         {
-          "title": "Mobile Gaming May Hurt Your Neck and Elbows",
-          "level": 7,
-          "file": "Mobile_Gaming_May_Hurt_Your_Neck_and_Elbows_level7.txt"
+          "title": "Paper Coffee Cups Release Millions of Nanoplastics",
+          "level": 8,
+          "file": "Paper_Coffee_Cups_Release_Millions_of_Nanoplastics_level8.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 60,
+      "existing": 63,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "We Trust Fake Doctor Reviews More than Real Ones",
+          "title": "Why Small Acts of Kindness Can Make a Difference",
+          "level": 6,
+          "file": "Why_Small_Acts_of_Kindness_Can_Make_a_Difference_level6.txt"
+        },
+        {
+          "title": "Sleeping in on Weekends May Be Good for Your Heart",
+          "level": 7,
+          "file": "Sleeping_in_on_Weekends_May_Be_Good_for_Your_Heart_level7.txt"
+        },
+        {
+          "title": "Study Shows Impact of Binge Drinking on Young Brains ",
           "level": 8,
-          "file": "We_Trust_Fake_Doctor_Reviews_More_than_Real_Ones_level8.txt"
-        },
-        {
-          "title": "Three Key Decorating Tips for Renters",
-          "level": 6,
-          "file": "Three_Key_Decorating_Tips_for_Renters_level6.txt"
-        },
-        {
-          "title": "US Kids Don't Get the Right Nutrition at Breakfast",
-          "level": 6,
-          "file": "US_Kids_Don't_Get_the_Right_Nutrition_at_Breakfast_level6.txt"
+          "file": "Study_Shows_Impact_of_Binge_Drinking_on_Young_Brains_level8.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 60,
+      "existing": 63,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Cramming for Exams? Experts Share Better Ways to Learn",
+          "title": "Americans' Thanksgiving Dinner Is Getting More Expensive",
           "level": 7,
-          "file": "Cramming_for_Exams_Experts_Share_Better_Ways_to_Learn_level7.txt"
+          "file": "Americans'_Thanksgiving_Dinner_Is_Getting_More_Expensive_level7.txt"
         },
         {
-          "title": "More US Households Now Have Kittens than Puppies",
+          "title": "Many US Teens Are Better with Money than Parents",
           "level": 6,
-          "file": "More_US_Households_Now_Have_Kittens_than_Puppies_level6.txt"
+          "file": "Many_US_Teens_Are_Better_with_Money_than_Parents_level6.txt"
         },
         {
-          "title": "_Ekiden_ Becoming More Popular in UK",
-          "level": 7,
-          "file": "_Ekiden__Becoming_More_Popular_in_UK_level7.txt"
+          "title": "Meet Japan's 90-Year-Old Bodybuilding Champion",
+          "level": 6,
+          "file": "Meet_Japan's_90-Year-Old_Bodybuilding_Champion_level6.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 60,
+      "existing": 63,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Cost, Visas Shape Students' Study-Abroad Choices ",
+          "title": "Seoul, Tokyo Named Best Cities for Digital Nomads",
+          "level": 6,
+          "file": "Seoul,_Tokyo_Named_Best_Cities_for_Digital_Nomads_level6.txt"
+        },
+        {
+          "title": "Why Tourists Love Foreign Supermarkets ",
           "level": 7,
-          "file": "Cost,_Visas_Shape_Students'_Study-Abroad_Choices_level7.txt"
+          "file": "Why_Tourists_Love_Foreign_Supermarkets_level7.txt"
         },
         {
-          "title": "Jumbo Jets Find New Life as Hotel Suites",
-          "level": 6,
-          "file": "Jumbo_Jets_Find_New_Life_as_Hotel_Suites_level6.txt"
-        },
-        {
-          "title": "Overpacking Is Travelers' Biggest Mistake",
-          "level": 6,
-          "file": "Overpacking_Is_Travelers'_Biggest_Mistake_level6.txt"
+          "title": "Feeding by Tourists Puts Japan's Rabbit Island at Risk",
+          "level": 7,
+          "file": "Feeding_by_Tourists_Puts_Japan's_Rabbit_Island_at_Risk_level7.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-25 13:19:38 UTC"
+  "finished": "2026-11-26 01:00:54 UTC"
 }

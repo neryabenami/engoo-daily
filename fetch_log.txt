@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-25 13:19:20 UTC
+Engoo Daily fetch started – 2026-11-26 01:00:35 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 60 articles
+[Business_Politics] already have 63 articles
   candidates found: 6
-  → L5  Remote Workers Lose 58 Minutes of Movement a Day
-  → L7  Japan's Convenience Stores Launch AI-Designed Sweets 
-  → L6  More Japanese Seniors Are Starting Businesses
+  → L6  Japan Comes Last in Global Workplace Happiness
+  → L8  South Korea to Survey Young K-Pop Stars on Rights
+  → L6  Canada-US Trade Dispute Boosts Maple Syrup Sales
 
-[Science_Technology] already have 60 articles
+[Science_Technology] already have 63 articles
   candidates found: 6
-  → L7  AI-Generated Menu Pictures Scare Customers Away
-  → L6  53% of Americans Spend Too Much Time on Phones
-  → L7  Mobile Gaming May Hurt Your Neck and Elbows
+  → L5  Osaka Metro Tests AI Robot Station Worker
+  → L7  Apple's New iPhone Lineup Includes First Foldable Model
+  → L8  Paper Coffee Cups Release Millions of Nanoplastics
 
-[Health_Lifestyle] already have 60 articles
+[Health_Lifestyle] already have 63 articles
   candidates found: 6
-  → L8  We Trust Fake Doctor Reviews More than Real Ones
-  → L6  Three Key Decorating Tips for Renters
-  → L6  US Kids Don't Get the Right Nutrition at Breakfast
+  → L6  Why Small Acts of Kindness Can Make a Difference
+  → L7  Sleeping in on Weekends May Be Good for Your Heart
+  → L8  Study Shows Impact of Binge Drinking on Young Brains 
 
-[Culture_Society] already have 60 articles
+[Culture_Society] already have 63 articles
   candidates found: 6
-  → L7  Cramming for Exams? Experts Share Better Ways to Learn
-  → L6  More US Households Now Have Kittens than Puppies
-  → L7  _Ekiden_ Becoming More Popular in UK
+  → L7  Americans' Thanksgiving Dinner Is Getting More Expensive
+  → L6  Many US Teens Are Better with Money than Parents
+  → L6  Meet Japan's 90-Year-Old Bodybuilding Champion
 
-[Travel_Experiences] already have 60 articles
+[Travel_Experiences] already have 63 articles
   candidates found: 6
-  → L7  Cost, Visas Shape Students' Study-Abroad Choices 
-  → L6  Jumbo Jets Find New Life as Hotel Suites
-  → L6  Overpacking Is Travelers' Biggest Mistake
+  → L6  Seoul, Tokyo Named Best Cities for Digital Nomads
+  → L7  Why Tourists Love Foreign Supermarkets 
+  → L7  Feeding by Tourists Puts Japan's Rabbit Island at Risk
 
 ============================================================
 Finished. Added 15 articles. Success=True
