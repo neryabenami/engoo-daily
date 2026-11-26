@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-26 01:00:35 UTC
+Engoo Daily fetch started – 2026-11-26 12:58:53 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 63 articles
+[Business_Politics] already have 66 articles
   candidates found: 6
-  → L6  Japan Comes Last in Global Workplace Happiness
-  → L8  South Korea to Survey Young K-Pop Stars on Rights
-  → L6  Canada-US Trade Dispute Boosts Maple Syrup Sales
+  → L7  Weak 'Soft Skills' Hurt Productivity, Employers Say
+  → L8  Risk of Large-Scale War Rising — UN Report
+  → L8  Japan's _Amazake_ Becoming Popular as a Health Drink
 
-[Science_Technology] already have 63 articles
+[Science_Technology] already have 66 articles
   candidates found: 6
-  → L5  Osaka Metro Tests AI Robot Station Worker
-  → L7  Apple's New iPhone Lineup Includes First Foldable Model
-  → L8  Paper Coffee Cups Release Millions of Nanoplastics
+  → L8  How Solar Became the World's Cheapest Energy Source
+  → L5  Bandai Releasing 'Tamagotchi Ring' for 30th Anniversary
+  → L8  NYC Bans AI for Elementary and Middle Schools
 
-[Health_Lifestyle] already have 63 articles
+[Health_Lifestyle] already have 66 articles
   candidates found: 6
-  → L6  Why Small Acts of Kindness Can Make a Difference
-  → L7  Sleeping in on Weekends May Be Good for Your Heart
-  → L8  Study Shows Impact of Binge Drinking on Young Brains 
+  → L6  Save Time with These Meal-Prepping Tips
+  → L7  Didn't Sleep Enough? Exercise May Protect Your Memory
+  → L8  Research Confirms Tai Chi Health Benefits
 
-[Culture_Society] already have 63 articles
+[Culture_Society] already have 66 articles
   candidates found: 6
-  → L7  Americans' Thanksgiving Dinner Is Getting More Expensive
-  → L6  Many US Teens Are Better with Money than Parents
-  → L6  Meet Japan's 90-Year-Old Bodybuilding Champion
+  → L6  Serbian Cafe Offers Coffee with Alpacas
+  → L5  Most People in Japan Still Value Handwriting
+  → L5  Many in Gen Z See Influencing as a Real Career
 
-[Travel_Experiences] already have 63 articles
+[Travel_Experiences] already have 66 articles
   candidates found: 6
-  → L6  Seoul, Tokyo Named Best Cities for Digital Nomads
-  → L7  Why Tourists Love Foreign Supermarkets 
-  → L7  Feeding by Tourists Puts Japan's Rabbit Island at Risk
+  → L6  Always Planning Trips? You Could Win a Swiss Holiday
+  → L6  Seoul's Incheon Named Busiest International Airport
+  → L6  Island of Ithaca Bets on Tourism After _The Odyssey_
 
 ============================================================
 Finished. Added 15 articles. Success=True
