@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-27 01:00:32 UTC
+Engoo Daily fetch started – 2026-11-27 12:55:59 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 69 articles
+[Business_Politics] already have 72 articles
   candidates found: 6
-  → L6  Japan Considers New Tax on Electric Cars from 2028
-  → L7  How High Expectations Can Improve Performance
-  → L7  US Workers Name AI Skills as 'Career Currency'
+  → L6  953 Foreign Business Owners Have Left Japan in 2026
+  → L7  Survey Reveals Power of Personality in Getting Hired
+  → L5  Lego Creates Sony PlayStation Set
 
-[Science_Technology] already have 69 articles
+[Science_Technology] already have 72 articles
   candidates found: 6
-  → L7  US Data Centers Use as Much Energy as Some Countries
-  → L7  Americans Are Stressed and Asking AI for Help
-  → L6  Social Media and Videos Linked to Worse Test Scores
+  → L9  How Good Journalism Fights Bad Science 
+  → L8  Scientists Make Cookies from Plastic Waste
+  → L6  Growing Number of Apps Help Adults Make Friends
 
-[Health_Lifestyle] already have 69 articles
+[Health_Lifestyle] already have 72 articles
   candidates found: 6
-  → L8  Groundbreaking Transplant Restores Woman's Sight
-  → L8  Japanese Enzyme Baths Find Fans at Home and Abroad  
-  → L7  Does Your Personality Affect How Well You Age?
+  → L5  What People Would Give up to Live Longer — Survey
+  → L8  Kids' Vaping Linked to Smoking, Health Issues
+  → L8  Your Gut May Affect Your Response to Stress — Study
 
-[Culture_Society] already have 69 articles
+[Culture_Society] already have 72 articles
   candidates found: 6
-  → L7  Think You're a Perfectionist? You're Probably Right!
-  → L7  Flu Cases High as Early Outbreak Spreads in Japan
-  → L4  Why We Have Popcorn at the Movies
+  → L7  Japan Makes It Harder to Get Permanent Residency
+  → L6  The Most-Searched Gen Alpha Slang of 2026
+  → L7  Social Connections Make People More Likely to Protest 
 
-[Travel_Experiences] already have 69 articles
+[Travel_Experiences] already have 72 articles
   candidates found: 6
-  → L5  How Locals Help Japan's Lighthouses Attract Tourists
-  → L7  Malaysia Clamps Down on Fast Hiking Trend 
-  → L6  Japanese Choosing 'Coolcations' for Summer Trips
+  → L5  Flight Canceled After Child Refuses to Sit Down
+  → L7  Mountain Climbing Down in Japan's Bear-Hit Regions
+  → L6  The Street Where Tourists Risk Their Lives for a Photo
 
 ============================================================
 Finished. Added 15 articles. Success=True

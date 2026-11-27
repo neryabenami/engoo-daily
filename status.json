@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-27 01:00:32 UTC",
+  "started": "2026-11-27 12:55:59 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 69,
+      "existing": 72,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Japan Considers New Tax on Electric Cars from 2028",
+          "title": "953 Foreign Business Owners Have Left Japan in 2026",
           "level": 6,
-          "file": "Japan_Considers_New_Tax_on_Electric_Cars_from_2028_level6.txt"
+          "file": "953_Foreign_Business_Owners_Have_Left_Japan_in_2026_level6.txt"
         },
         {
-          "title": "How High Expectations Can Improve Performance",
+          "title": "Survey Reveals Power of Personality in Getting Hired",
           "level": 7,
-          "file": "How_High_Expectations_Can_Improve_Performance_level7.txt"
+          "file": "Survey_Reveals_Power_of_Personality_in_Getting_Hired_level7.txt"
         },
         {
-          "title": "US Workers Name AI Skills as 'Career Currency'",
-          "level": 7,
-          "file": "US_Workers_Name_AI_Skills_as_'Career_Currency'_level7.txt"
+          "title": "Lego Creates Sony PlayStation Set",
+          "level": 5,
+          "file": "Lego_Creates_Sony_PlayStation_Set_level5.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 69,
+      "existing": 72,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "US Data Centers Use as Much Energy as Some Countries",
-          "level": 7,
-          "file": "US_Data_Centers_Use_as_Much_Energy_as_Some_Countries_level7.txt"
+          "title": "How Good Journalism Fights Bad Science ",
+          "level": 9,
+          "file": "How_Good_Journalism_Fights_Bad_Science_level9.txt"
         },
         {
-          "title": "Americans Are Stressed and Asking AI for Help",
-          "level": 7,
-          "file": "Americans_Are_Stressed_and_Asking_AI_for_Help_level7.txt"
+          "title": "Scientists Make Cookies from Plastic Waste",
+          "level": 8,
+          "file": "Scientists_Make_Cookies_from_Plastic_Waste_level8.txt"
         },
         {
-          "title": "Social Media and Videos Linked to Worse Test Scores",
+          "title": "Growing Number of Apps Help Adults Make Friends",
           "level": 6,
-          "file": "Social_Media_and_Videos_Linked_to_Worse_Test_Scores_level6.txt"
+          "file": "Growing_Number_of_Apps_Help_Adults_Make_Friends_level6.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 69,
+      "existing": 72,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Groundbreaking Transplant Restores Woman's Sight",
-          "level": 8,
-          "file": "Groundbreaking_Transplant_Restores_Woman's_Sight_level8.txt"
+          "title": "What People Would Give up to Live Longer — Survey",
+          "level": 5,
+          "file": "What_People_Would_Give_up_to_Live_Longer_—_Survey_level5.txt"
         },
         {
-          "title": "Japanese Enzyme Baths Find Fans at Home and Abroad  ",
+          "title": "Kids' Vaping Linked to Smoking, Health Issues",
           "level": 8,
-          "file": "Japanese_Enzyme_Baths_Find_Fans_at_Home_and_Abroad_level8.txt"
+          "file": "Kids'_Vaping_Linked_to_Smoking,_Health_Issues_level8.txt"
         },
         {
-          "title": "Does Your Personality Affect How Well You Age?",
-          "level": 7,
-          "file": "Does_Your_Personality_Affect_How_Well_You_Age_level7.txt"
+          "title": "Your Gut May Affect Your Response to Stress — Study",
+          "level": 8,
+          "file": "Your_Gut_May_Affect_Your_Response_to_Stress_—_Study_level8.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 69,
+      "existing": 72,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Think You're a Perfectionist? You're Probably Right!",
+          "title": "Japan Makes It Harder to Get Permanent Residency",
           "level": 7,
-          "file": "Think_You're_a_Perfectionist_You're_Probably_Right!_level7.txt"
+          "file": "Japan_Makes_It_Harder_to_Get_Permanent_Residency_level7.txt"
         },
         {
-          "title": "Flu Cases High as Early Outbreak Spreads in Japan",
-          "level": 7,
-          "file": "Flu_Cases_High_as_Early_Outbreak_Spreads_in_Japan_level7.txt"
+          "title": "The Most-Searched Gen Alpha Slang of 2026",
+          "level": 6,
+          "file": "The_Most-Searched_Gen_Alpha_Slang_of_2026_level6.txt"
         },
         {
-          "title": "Why We Have Popcorn at the Movies",
-          "level": 4,
-          "file": "Why_We_Have_Popcorn_at_the_Movies_level4.txt"
+          "title": "Social Connections Make People More Likely to Protest ",
+          "level": 7,
+          "file": "Social_Connections_Make_People_More_Likely_to_Protest_level7.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 69,
+      "existing": 72,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "How Locals Help Japan's Lighthouses Attract Tourists",
+          "title": "Flight Canceled After Child Refuses to Sit Down",
           "level": 5,
-          "file": "How_Locals_Help_Japan's_Lighthouses_Attract_Tourists_level5.txt"
+          "file": "Flight_Canceled_After_Child_Refuses_to_Sit_Down_level5.txt"
         },
         {
-          "title": "Malaysia Clamps Down on Fast Hiking Trend ",
+          "title": "Mountain Climbing Down in Japan's Bear-Hit Regions",
           "level": 7,
-          "file": "Malaysia_Clamps_Down_on_Fast_Hiking_Trend_level7.txt"
+          "file": "Mountain_Climbing_Down_in_Japan's_Bear-Hit_Regions_level7.txt"
         },
         {
-          "title": "Japanese Choosing 'Coolcations' for Summer Trips",
+          "title": "The Street Where Tourists Risk Their Lives for a Photo",
           "level": 6,
-          "file": "Japanese_Choosing_'Coolcations'_for_Summer_Trips_level6.txt"
+          "file": "The_Street_Where_Tourists_Risk_Their_Lives_for_a_Photo_level6.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-27 01:00:50 UTC"
+  "finished": "2026-11-27 12:56:17 UTC"
 }
