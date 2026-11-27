@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-26 12:58:53 UTC
+Engoo Daily fetch started – 2026-11-27 01:00:32 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 66 articles
+[Business_Politics] already have 69 articles
   candidates found: 6
-  → L7  Weak 'Soft Skills' Hurt Productivity, Employers Say
-  → L8  Risk of Large-Scale War Rising — UN Report
-  → L8  Japan's _Amazake_ Becoming Popular as a Health Drink
+  → L6  Japan Considers New Tax on Electric Cars from 2028
+  → L7  How High Expectations Can Improve Performance
+  → L7  US Workers Name AI Skills as 'Career Currency'
 
-[Science_Technology] already have 66 articles
+[Science_Technology] already have 69 articles
   candidates found: 6
-  → L8  How Solar Became the World's Cheapest Energy Source
-  → L5  Bandai Releasing 'Tamagotchi Ring' for 30th Anniversary
-  → L8  NYC Bans AI for Elementary and Middle Schools
+  → L7  US Data Centers Use as Much Energy as Some Countries
+  → L7  Americans Are Stressed and Asking AI for Help
+  → L6  Social Media and Videos Linked to Worse Test Scores
 
-[Health_Lifestyle] already have 66 articles
+[Health_Lifestyle] already have 69 articles
   candidates found: 6
-  → L6  Save Time with These Meal-Prepping Tips
-  → L7  Didn't Sleep Enough? Exercise May Protect Your Memory
-  → L8  Research Confirms Tai Chi Health Benefits
+  → L8  Groundbreaking Transplant Restores Woman's Sight
+  → L8  Japanese Enzyme Baths Find Fans at Home and Abroad  
+  → L7  Does Your Personality Affect How Well You Age?
 
-[Culture_Society] already have 66 articles
+[Culture_Society] already have 69 articles
   candidates found: 6
-  → L6  Serbian Cafe Offers Coffee with Alpacas
-  → L5  Most People in Japan Still Value Handwriting
-  → L5  Many in Gen Z See Influencing as a Real Career
+  → L7  Think You're a Perfectionist? You're Probably Right!
+  → L7  Flu Cases High as Early Outbreak Spreads in Japan
+  → L4  Why We Have Popcorn at the Movies
 
-[Travel_Experiences] already have 66 articles
+[Travel_Experiences] already have 69 articles
   candidates found: 6
-  → L6  Always Planning Trips? You Could Win a Swiss Holiday
-  → L6  Seoul's Incheon Named Busiest International Airport
-  → L6  Island of Ithaca Bets on Tourism After _The Odyssey_
+  → L5  How Locals Help Japan's Lighthouses Attract Tourists
+  → L7  Malaysia Clamps Down on Fast Hiking Trend 
+  → L6  Japanese Choosing 'Coolcations' for Summer Trips
 
 ============================================================
 Finished. Added 15 articles. Success=True

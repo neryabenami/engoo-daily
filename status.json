@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-26 12:58:53 UTC",
+  "started": "2026-11-27 01:00:32 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 66,
+      "existing": 69,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Weak 'Soft Skills' Hurt Productivity, Employers Say",
+          "title": "Japan Considers New Tax on Electric Cars from 2028",
+          "level": 6,
+          "file": "Japan_Considers_New_Tax_on_Electric_Cars_from_2028_level6.txt"
+        },
+        {
+          "title": "How High Expectations Can Improve Performance",
           "level": 7,
-          "file": "Weak_'Soft_Skills'_Hurt_Productivity,_Employers_Say_level7.txt"
+          "file": "How_High_Expectations_Can_Improve_Performance_level7.txt"
         },
         {
-          "title": "Risk of Large-Scale War Rising — UN Report",
-          "level": 8,
-          "file": "Risk_of_Large-Scale_War_Rising_—_UN_Report_level8.txt"
-        },
-        {
-          "title": "Japan's _Amazake_ Becoming Popular as a Health Drink",
-          "level": 8,
-          "file": "Japan's__Amazake__Becoming_Popular_as_a_Health_Drink_level8.txt"
+          "title": "US Workers Name AI Skills as 'Career Currency'",
+          "level": 7,
+          "file": "US_Workers_Name_AI_Skills_as_'Career_Currency'_level7.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 66,
+      "existing": 69,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "How Solar Became the World's Cheapest Energy Source",
-          "level": 8,
-          "file": "How_Solar_Became_the_World's_Cheapest_Energy_Source_level8.txt"
+          "title": "US Data Centers Use as Much Energy as Some Countries",
+          "level": 7,
+          "file": "US_Data_Centers_Use_as_Much_Energy_as_Some_Countries_level7.txt"
         },
         {
-          "title": "Bandai Releasing 'Tamagotchi Ring' for 30th Anniversary",
-          "level": 5,
-          "file": "Bandai_Releasing_'Tamagotchi_Ring'_for_30th_Anniversary_level5.txt"
+          "title": "Americans Are Stressed and Asking AI for Help",
+          "level": 7,
+          "file": "Americans_Are_Stressed_and_Asking_AI_for_Help_level7.txt"
         },
         {
-          "title": "NYC Bans AI for Elementary and Middle Schools",
-          "level": 8,
-          "file": "NYC_Bans_AI_for_Elementary_and_Middle_Schools_level8.txt"
+          "title": "Social Media and Videos Linked to Worse Test Scores",
+          "level": 6,
+          "file": "Social_Media_and_Videos_Linked_to_Worse_Test_Scores_level6.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 66,
+      "existing": 69,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Save Time with These Meal-Prepping Tips",
-          "level": 6,
-          "file": "Save_Time_with_These_Meal-Prepping_Tips_level6.txt"
-        },
-        {
-          "title": "Didn't Sleep Enough? Exercise May Protect Your Memory",
-          "level": 7,
-          "file": "Didn't_Sleep_Enough_Exercise_May_Protect_Your_Memory_level7.txt"
-        },
-        {
-          "title": "Research Confirms Tai Chi Health Benefits",
+          "title": "Groundbreaking Transplant Restores Woman's Sight",
           "level": 8,
-          "file": "Research_Confirms_Tai_Chi_Health_Benefits_level8.txt"
+          "file": "Groundbreaking_Transplant_Restores_Woman's_Sight_level8.txt"
+        },
+        {
+          "title": "Japanese Enzyme Baths Find Fans at Home and Abroad  ",
+          "level": 8,
+          "file": "Japanese_Enzyme_Baths_Find_Fans_at_Home_and_Abroad_level8.txt"
+        },
+        {
+          "title": "Does Your Personality Affect How Well You Age?",
+          "level": 7,
+          "file": "Does_Your_Personality_Affect_How_Well_You_Age_level7.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 66,
+      "existing": 69,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Serbian Cafe Offers Coffee with Alpacas",
-          "level": 6,
-          "file": "Serbian_Cafe_Offers_Coffee_with_Alpacas_level6.txt"
+          "title": "Think You're a Perfectionist? You're Probably Right!",
+          "level": 7,
+          "file": "Think_You're_a_Perfectionist_You're_Probably_Right!_level7.txt"
         },
         {
-          "title": "Most People in Japan Still Value Handwriting",
-          "level": 5,
-          "file": "Most_People_in_Japan_Still_Value_Handwriting_level5.txt"
+          "title": "Flu Cases High as Early Outbreak Spreads in Japan",
+          "level": 7,
+          "file": "Flu_Cases_High_as_Early_Outbreak_Spreads_in_Japan_level7.txt"
         },
         {
-          "title": "Many in Gen Z See Influencing as a Real Career",
-          "level": 5,
-          "file": "Many_in_Gen_Z_See_Influencing_as_a_Real_Career_level5.txt"
+          "title": "Why We Have Popcorn at the Movies",
+          "level": 4,
+          "file": "Why_We_Have_Popcorn_at_the_Movies_level4.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 66,
+      "existing": 69,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Always Planning Trips? You Could Win a Swiss Holiday",
-          "level": 6,
-          "file": "Always_Planning_Trips_You_Could_Win_a_Swiss_Holiday_level6.txt"
+          "title": "How Locals Help Japan's Lighthouses Attract Tourists",
+          "level": 5,
+          "file": "How_Locals_Help_Japan's_Lighthouses_Attract_Tourists_level5.txt"
         },
         {
-          "title": "Seoul's Incheon Named Busiest International Airport",
-          "level": 6,
-          "file": "Seoul's_Incheon_Named_Busiest_International_Airport_level6.txt"
+          "title": "Malaysia Clamps Down on Fast Hiking Trend ",
+          "level": 7,
+          "file": "Malaysia_Clamps_Down_on_Fast_Hiking_Trend_level7.txt"
         },
         {
-          "title": "Island of Ithaca Bets on Tourism After _The Odyssey_",
+          "title": "Japanese Choosing 'Coolcations' for Summer Trips",
           "level": 6,
-          "file": "Island_of_Ithaca_Bets_on_Tourism_After__The_Odyssey_level6.txt"
+          "file": "Japanese_Choosing_'Coolcations'_for_Summer_Trips_level6.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-26 12:59:13 UTC"
+  "finished": "2026-11-27 01:00:50 UTC"
 }
