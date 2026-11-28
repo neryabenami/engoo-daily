@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-27 12:55:59 UTC",
+  "started": "2026-11-28 01:00:32 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 72,
+      "existing": 75,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "953 Foreign Business Owners Have Left Japan in 2026",
-          "level": 6,
-          "file": "953_Foreign_Business_Owners_Have_Left_Japan_in_2026_level6.txt"
-        },
-        {
-          "title": "Survey Reveals Power of Personality in Getting Hired",
+          "title": "South Korea's Noodle Giants Fight for Global Sales",
           "level": 7,
-          "file": "Survey_Reveals_Power_of_Personality_in_Getting_Hired_level7.txt"
+          "file": "South_Korea's_Noodle_Giants_Fight_for_Global_Sales_level7.txt"
         },
         {
-          "title": "Lego Creates Sony PlayStation Set",
-          "level": 5,
-          "file": "Lego_Creates_Sony_PlayStation_Set_level5.txt"
+          "title": "Coco Ichibanya Owner Considering Sale",
+          "level": 6,
+          "file": "Coco_Ichibanya_Owner_Considering_Sale_level6.txt"
+        },
+        {
+          "title": "Why Japanese Businesses Are Investing in India",
+          "level": 7,
+          "file": "Why_Japanese_Businesses_Are_Investing_in_India_level7.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 72,
+      "existing": 75,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "How Good Journalism Fights Bad Science ",
-          "level": 9,
-          "file": "How_Good_Journalism_Fights_Bad_Science_level9.txt"
-        },
-        {
-          "title": "Scientists Make Cookies from Plastic Waste",
-          "level": 8,
-          "file": "Scientists_Make_Cookies_from_Plastic_Waste_level8.txt"
-        },
-        {
-          "title": "Growing Number of Apps Help Adults Make Friends",
+          "title": "Scientists Grow Potatoes in Moon Soil",
           "level": 6,
-          "file": "Growing_Number_of_Apps_Help_Adults_Make_Friends_level6.txt"
+          "file": "Scientists_Grow_Potatoes_in_Moon_Soil_level6.txt"
+        },
+        {
+          "title": "Some Trees Make City Air Quality Worse — Study",
+          "level": 8,
+          "file": "Some_Trees_Make_City_Air_Quality_Worse_—_Study_level8.txt"
+        },
+        {
+          "title": "Australia Bans AI-Made Songs from Music Charts",
+          "level": 6,
+          "file": "Australia_Bans_AI-Made_Songs_from_Music_Charts_level6.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 72,
+      "existing": 75,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "What People Would Give up to Live Longer — Survey",
-          "level": 5,
-          "file": "What_People_Would_Give_up_to_Live_Longer_—_Survey_level5.txt"
+          "title": "Switching Dairy for Plants Risks Nutrient Deficiencies",
+          "level": 7,
+          "file": "Switching_Dairy_for_Plants_Risks_Nutrient_Deficiencies_level7.txt"
         },
         {
-          "title": "Kids' Vaping Linked to Smoking, Health Issues",
-          "level": 8,
-          "file": "Kids'_Vaping_Linked_to_Smoking,_Health_Issues_level8.txt"
+          "title": "This Hormone May Explain Why Exercise Helps the Brain",
+          "level": 6,
+          "file": "This_Hormone_May_Explain_Why_Exercise_Helps_the_Brain_level6.txt"
         },
         {
-          "title": "Your Gut May Affect Your Response to Stress — Study",
-          "level": 8,
-          "file": "Your_Gut_May_Affect_Your_Response_to_Stress_—_Study_level8.txt"
+          "title": "Having a Sweet Tooth Linked to Safer Choices",
+          "level": 7,
+          "file": "Having_a_Sweet_Tooth_Linked_to_Safer_Choices_level7.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 72,
+      "existing": 75,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Japan Makes It Harder to Get Permanent Residency",
-          "level": 7,
-          "file": "Japan_Makes_It_Harder_to_Get_Permanent_Residency_level7.txt"
-        },
-        {
-          "title": "The Most-Searched Gen Alpha Slang of 2026",
+          "title": "Japan's English Proficiency Improves in Global Ranking",
           "level": 6,
-          "file": "The_Most-Searched_Gen_Alpha_Slang_of_2026_level6.txt"
+          "file": "Japan's_English_Proficiency_Improves_in_Global_Ranking_level6.txt"
         },
         {
-          "title": "Social Connections Make People More Likely to Protest ",
+          "title": "FamilyMart Socks Save Uzbekistan at Asian Games",
           "level": 7,
-          "file": "Social_Connections_Make_People_More_Likely_to_Protest_level7.txt"
+          "file": "FamilyMart_Socks_Save_Uzbekistan_at_Asian_Games_level7.txt"
+        },
+        {
+          "title": "Japanese Art of _Ikebana_ Draws Those Seeking Calm",
+          "level": 7,
+          "file": "Japanese_Art_of__Ikebana__Draws_Those_Seeking_Calm_level7.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 72,
+      "existing": 75,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Flight Canceled After Child Refuses to Sit Down",
-          "level": 5,
-          "file": "Flight_Canceled_After_Child_Refuses_to_Sit_Down_level5.txt"
-        },
-        {
-          "title": "Mountain Climbing Down in Japan's Bear-Hit Regions",
-          "level": 7,
-          "file": "Mountain_Climbing_Down_in_Japan's_Bear-Hit_Regions_level7.txt"
-        },
-        {
-          "title": "The Street Where Tourists Risk Their Lives for a Photo",
+          "title": "These Are the World's Most 'Welcoming' Cities",
           "level": 6,
-          "file": "The_Street_Where_Tourists_Risk_Their_Lives_for_a_Photo_level6.txt"
+          "file": "These_Are_the_World's_Most_'Welcoming'_Cities_level6.txt"
+        },
+        {
+          "title": "Display Your Face at Tokyo's Shibuya Scramble",
+          "level": 6,
+          "file": "Display_Your_Face_at_Tokyo's_Shibuya_Scramble_level6.txt"
+        },
+        {
+          "title": "Airline to Charge Passengers to Use Overhead Lockers",
+          "level": 7,
+          "file": "Airline_to_Charge_Passengers_to_Use_Overhead_Lockers_level7.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-27 12:56:17 UTC"
+  "finished": "2026-11-28 01:00:50 UTC"
 }

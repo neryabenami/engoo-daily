@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-27 12:55:59 UTC
+Engoo Daily fetch started – 2026-11-28 01:00:32 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 72 articles
+[Business_Politics] already have 75 articles
   candidates found: 6
-  → L6  953 Foreign Business Owners Have Left Japan in 2026
-  → L7  Survey Reveals Power of Personality in Getting Hired
-  → L5  Lego Creates Sony PlayStation Set
+  → L7  South Korea's Noodle Giants Fight for Global Sales
+  → L6  Coco Ichibanya Owner Considering Sale
+  → L7  Why Japanese Businesses Are Investing in India
 
-[Science_Technology] already have 72 articles
+[Science_Technology] already have 75 articles
   candidates found: 6
-  → L9  How Good Journalism Fights Bad Science 
-  → L8  Scientists Make Cookies from Plastic Waste
-  → L6  Growing Number of Apps Help Adults Make Friends
+  → L6  Scientists Grow Potatoes in Moon Soil
+  → L8  Some Trees Make City Air Quality Worse — Study
+  → L6  Australia Bans AI-Made Songs from Music Charts
 
-[Health_Lifestyle] already have 72 articles
+[Health_Lifestyle] already have 75 articles
   candidates found: 6
-  → L5  What People Would Give up to Live Longer — Survey
-  → L8  Kids' Vaping Linked to Smoking, Health Issues
-  → L8  Your Gut May Affect Your Response to Stress — Study
+  → L7  Switching Dairy for Plants Risks Nutrient Deficiencies
+  → L6  This Hormone May Explain Why Exercise Helps the Brain
+  → L7  Having a Sweet Tooth Linked to Safer Choices
 
-[Culture_Society] already have 72 articles
+[Culture_Society] already have 75 articles
   candidates found: 6
-  → L7  Japan Makes It Harder to Get Permanent Residency
-  → L6  The Most-Searched Gen Alpha Slang of 2026
-  → L7  Social Connections Make People More Likely to Protest 
+  → L6  Japan's English Proficiency Improves in Global Ranking
+  → L7  FamilyMart Socks Save Uzbekistan at Asian Games
+  → L7  Japanese Art of _Ikebana_ Draws Those Seeking Calm
 
-[Travel_Experiences] already have 72 articles
+[Travel_Experiences] already have 75 articles
   candidates found: 6
-  → L5  Flight Canceled After Child Refuses to Sit Down
-  → L7  Mountain Climbing Down in Japan's Bear-Hit Regions
-  → L6  The Street Where Tourists Risk Their Lives for a Photo
+  → L6  These Are the World's Most 'Welcoming' Cities
+  → L6  Display Your Face at Tokyo's Shibuya Scramble
+  → L7  Airline to Charge Passengers to Use Overhead Lockers
 
 ============================================================
 Finished. Added 15 articles. Success=True
