@@ -1,37 +1,37 @@
 ============================================================
-Engoo Daily fetch started – 2026-11-28 01:00:32 UTC
+Engoo Daily fetch started – 2026-11-28 12:08:19 UTC
 Target: 3 new articles × 5 topics  (levels 4-9)
 ============================================================
 
-[Business_Politics] already have 75 articles
+[Business_Politics] already have 78 articles
   candidates found: 6
-  → L7  South Korea's Noodle Giants Fight for Global Sales
-  → L6  Coco Ichibanya Owner Considering Sale
-  → L7  Why Japanese Businesses Are Investing in India
+  → L6  This Startup Is Trying to Bring Back Twitter 
+  → L6  Human-Written Resumes Beat AI in Job-Hunt Test
+  → L4  Americans Use Less Cash, but Still Carry It
 
-[Science_Technology] already have 75 articles
+[Science_Technology] already have 78 articles
   candidates found: 6
-  → L6  Scientists Grow Potatoes in Moon Soil
-  → L8  Some Trees Make City Air Quality Worse — Study
-  → L6  Australia Bans AI-Made Songs from Music Charts
+  → L6  70% of Japanese Think They're Safe from Online Scams
+  → L8  Screenshots Are Bad for Your Memory — Here's Why
+  → L8  Ferrari's First EV Sells for Record $40 Million
 
-[Health_Lifestyle] already have 75 articles
+[Health_Lifestyle] already have 78 articles
   candidates found: 6
-  → L7  Switching Dairy for Plants Risks Nutrient Deficiencies
-  → L6  This Hormone May Explain Why Exercise Helps the Brain
-  → L7  Having a Sweet Tooth Linked to Safer Choices
+  → L7  Could Paying Attention to Pain Help You Heal?
+  → L7  More Japanese Teens Getting Cosmetic Surgery
+  → L6  E-Scooters More Dangerous than Motorbikes, Bicycles
 
-[Culture_Society] already have 75 articles
+[Culture_Society] already have 78 articles
   candidates found: 6
-  → L6  Japan's English Proficiency Improves in Global Ranking
-  → L7  FamilyMart Socks Save Uzbekistan at Asian Games
-  → L7  Japanese Art of _Ikebana_ Draws Those Seeking Calm
+  → L7  Couples Share Musical Taste More than Personality
+  → L6  'Dopamine Sites' Let You Shop Without Spending Money
+  → L8  Germany to Phase Out Fossil Fuels by 2045
 
-[Travel_Experiences] already have 75 articles
+[Travel_Experiences] already have 78 articles
   candidates found: 6
-  → L6  These Are the World's Most 'Welcoming' Cities
-  → L6  Display Your Face at Tokyo's Shibuya Scramble
-  → L7  Airline to Charge Passengers to Use Overhead Lockers
+  → L6  Asian Travelers Still Plan Trips Despite Rising Costs
+  → L6  S. Korea Cracks Down on Overcharging of Tourists
+  → L7  Is Social Media Ruining the Joy of Travel?
 
 ============================================================
 Finished. Added 15 articles. Success=True

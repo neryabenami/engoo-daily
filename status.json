@@ -1,119 +1,119 @@
 {
-  "started": "2026-11-28 01:00:32 UTC",
+  "started": "2026-11-28 12:08:19 UTC",
   "ok": true,
   "total_added": 15,
   "topics": {
     "Business_Politics": {
-      "existing": 75,
+      "existing": 78,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "South Korea's Noodle Giants Fight for Global Sales",
-          "level": 7,
-          "file": "South_Korea's_Noodle_Giants_Fight_for_Global_Sales_level7.txt"
-        },
-        {
-          "title": "Coco Ichibanya Owner Considering Sale",
+          "title": "This Startup Is Trying to Bring Back Twitter ",
           "level": 6,
-          "file": "Coco_Ichibanya_Owner_Considering_Sale_level6.txt"
+          "file": "This_Startup_Is_Trying_to_Bring_Back_Twitter_level6.txt"
         },
         {
-          "title": "Why Japanese Businesses Are Investing in India",
-          "level": 7,
-          "file": "Why_Japanese_Businesses_Are_Investing_in_India_level7.txt"
+          "title": "Human-Written Resumes Beat AI in Job-Hunt Test",
+          "level": 6,
+          "file": "Human-Written_Resumes_Beat_AI_in_Job-Hunt_Test_level6.txt"
+        },
+        {
+          "title": "Americans Use Less Cash, but Still Carry It",
+          "level": 4,
+          "file": "Americans_Use_Less_Cash,_but_Still_Carry_It_level4.txt"
         }
       ]
     },
     "Science_Technology": {
-      "existing": 75,
+      "existing": 78,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Scientists Grow Potatoes in Moon Soil",
+          "title": "70% of Japanese Think They're Safe from Online Scams",
           "level": 6,
-          "file": "Scientists_Grow_Potatoes_in_Moon_Soil_level6.txt"
+          "file": "70%_of_Japanese_Think_They're_Safe_from_Online_Scams_level6.txt"
         },
         {
-          "title": "Some Trees Make City Air Quality Worse — Study",
+          "title": "Screenshots Are Bad for Your Memory — Here's Why",
           "level": 8,
-          "file": "Some_Trees_Make_City_Air_Quality_Worse_—_Study_level8.txt"
+          "file": "Screenshots_Are_Bad_for_Your_Memory_—_Here's_Why_level8.txt"
         },
         {
-          "title": "Australia Bans AI-Made Songs from Music Charts",
-          "level": 6,
-          "file": "Australia_Bans_AI-Made_Songs_from_Music_Charts_level6.txt"
+          "title": "Ferrari's First EV Sells for Record $40 Million",
+          "level": 8,
+          "file": "Ferrari's_First_EV_Sells_for_Record_$40_Million_level8.txt"
         }
       ]
     },
     "Health_Lifestyle": {
-      "existing": 75,
+      "existing": 78,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Switching Dairy for Plants Risks Nutrient Deficiencies",
+          "title": "Could Paying Attention to Pain Help You Heal?",
           "level": 7,
-          "file": "Switching_Dairy_for_Plants_Risks_Nutrient_Deficiencies_level7.txt"
+          "file": "Could_Paying_Attention_to_Pain_Help_You_Heal_level7.txt"
         },
         {
-          "title": "This Hormone May Explain Why Exercise Helps the Brain",
+          "title": "More Japanese Teens Getting Cosmetic Surgery",
+          "level": 7,
+          "file": "More_Japanese_Teens_Getting_Cosmetic_Surgery_level7.txt"
+        },
+        {
+          "title": "E-Scooters More Dangerous than Motorbikes, Bicycles",
           "level": 6,
-          "file": "This_Hormone_May_Explain_Why_Exercise_Helps_the_Brain_level6.txt"
-        },
-        {
-          "title": "Having a Sweet Tooth Linked to Safer Choices",
-          "level": 7,
-          "file": "Having_a_Sweet_Tooth_Linked_to_Safer_Choices_level7.txt"
+          "file": "E-Scooters_More_Dangerous_than_Motorbikes,_Bicycles_level6.txt"
         }
       ]
     },
     "Culture_Society": {
-      "existing": 75,
+      "existing": 78,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "Japan's English Proficiency Improves in Global Ranking",
+          "title": "Couples Share Musical Taste More than Personality",
+          "level": 7,
+          "file": "Couples_Share_Musical_Taste_More_than_Personality_level7.txt"
+        },
+        {
+          "title": "'Dopamine Sites' Let You Shop Without Spending Money",
           "level": 6,
-          "file": "Japan's_English_Proficiency_Improves_in_Global_Ranking_level6.txt"
+          "file": "'Dopamine_Sites'_Let_You_Shop_Without_Spending_Money_level6.txt"
         },
         {
-          "title": "FamilyMart Socks Save Uzbekistan at Asian Games",
-          "level": 7,
-          "file": "FamilyMart_Socks_Save_Uzbekistan_at_Asian_Games_level7.txt"
-        },
-        {
-          "title": "Japanese Art of _Ikebana_ Draws Those Seeking Calm",
-          "level": 7,
-          "file": "Japanese_Art_of__Ikebana__Draws_Those_Seeking_Calm_level7.txt"
+          "title": "Germany to Phase Out Fossil Fuels by 2045",
+          "level": 8,
+          "file": "Germany_to_Phase_Out_Fossil_Fuels_by_2045_level8.txt"
         }
       ]
     },
     "Travel_Experiences": {
-      "existing": 75,
+      "existing": 78,
       "added": 3,
       "errors": [],
       "articles": [
         {
-          "title": "These Are the World's Most 'Welcoming' Cities",
+          "title": "Asian Travelers Still Plan Trips Despite Rising Costs",
           "level": 6,
-          "file": "These_Are_the_World's_Most_'Welcoming'_Cities_level6.txt"
+          "file": "Asian_Travelers_Still_Plan_Trips_Despite_Rising_Costs_level6.txt"
         },
         {
-          "title": "Display Your Face at Tokyo's Shibuya Scramble",
+          "title": "S. Korea Cracks Down on Overcharging of Tourists",
           "level": 6,
-          "file": "Display_Your_Face_at_Tokyo's_Shibuya_Scramble_level6.txt"
+          "file": "S._Korea_Cracks_Down_on_Overcharging_of_Tourists_level6.txt"
         },
         {
-          "title": "Airline to Charge Passengers to Use Overhead Lockers",
+          "title": "Is Social Media Ruining the Joy of Travel?",
           "level": 7,
-          "file": "Airline_to_Charge_Passengers_to_Use_Overhead_Lockers_level7.txt"
+          "file": "Is_Social_Media_Ruining_the_Joy_of_Travel_level7.txt"
         }
       ]
     }
   },
   "fatal_error": null,
-  "finished": "2026-11-28 01:00:50 UTC"
+  "finished": "2026-11-28 12:08:38 UTC"
 }
